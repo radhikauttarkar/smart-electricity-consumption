@@ -1,0 +1,1001 @@
+Customer_ID,City,House_Type,Family_Members,House_Size_sqft,Occupancy_Hours,AC_Count,AC_Usage_Hours,Fan_Count,Light_Count,LED_Bulbs_Count,Refrigerator,Washing_Machine_Usage_Per_Week,TV_Usage_Hours,Water_Heater,Water_Heater_Usage_Hours,Computer_Count,Computer_Usage_Hours,Other_Appliances_Count,Other_Appliances_Usage_Hours,Temperature_C,Season,Monthly_Electricity_Consumption_kWh
+C0001,Aurangabad,Independent House,2,1055,12.3,1,8.2,4,11,7,Yes,5.7,3.6,Yes,2,0,0,2,3.1,31.7,Summer,502
+C0002,Nashik,Independent House,1,541,11.4,1,4.5,2,6,5,Yes,1.4,4,Yes,0.9,0,0,3,1,24.2,Monsoon,332.6
+C0003,Nagpur,Villa,7,1236,9.5,1,1.5,8,9,8,Yes,6.5,3.7,Yes,1.9,1,6.4,4,1.6,26,Monsoon,420.4
+C0004,Aurangabad,Apartment,5,1050,17,2,8.4,5,9,6,Yes,4.7,2.7,Yes,0.9,2,1.9,4,1.1,32.9,Summer,768.9
+C0005,Solapur,Villa,1,647,9.1,1,3.9,3,8,7,Yes,5.8,5,Yes,1.2,0,0,4,2.2,17.5,Winter,324.3
+C0006,Nagpur,Apartment,6,1263,5.9,1,4.8,5,10,8,Yes,2.5,3.1,Yes,1.5,0,0,3,3,24.6,Monsoon,441.4
+C0007,Nagpur,Apartment,5,998,15.5,0,0,6,11,7,Yes,1.6,2.5,No,0,0,0,3,4,27.7,Winter,297.8
+C0008,Aurangabad,Apartment,7,1819,10,3,4.2,7,16,11,Yes,0.8,0.5,No,0,0,0,4,0.6,28.8,Monsoon,655.3
+C0009,Mumbai,Villa,3,862,10.8,0,0,5,8,7,Yes,6,0.5,Yes,1.2,3,2.9,5,2.9,29.1,Monsoon,324.4
+C0010,Solapur,Apartment,4,1083,10.6,1,3.8,4,14,11,Yes,5.2,3.9,Yes,1.3,0,0,3,2,28.2,Summer,425.3
+C0011,Aurangabad,Apartment,7,1296,10.1,2,9.2,6,10,9,Yes,5.3,3.4,Yes,0.2,0,0,3,1.6,27.2,Monsoon,789.8
+C0012,Solapur,Independent House,3,1095,9.6,1,7.8,3,9,7,Yes,4.5,5,Yes,1.9,0,0,2,1.1,31.9,Summer,481.5
+C0013,Solapur,Apartment,2,893,9,1,6.6,4,8,7,Yes,5,5.4,Yes,1.8,1,4.3,3,3.8,28.4,Monsoon,492
+C0014,Nagpur,Apartment,1,400,11.7,0,0,2,8,6,Yes,3.5,3.1,Yes,1.4,1,2.6,3,0.4,37,Summer,251.6
+C0015,Nashik,Apartment,6,1441,10.5,2,6.7,6,13,10,Yes,4.7,5.1,Yes,1.7,1,2.6,1,1.5,23.3,Monsoon,686
+C0016,Solapur,Apartment,5,1590,13.3,0,0,5,14,10,Yes,2.5,2.5,Yes,0.2,1,2,5,2.4,36.1,Summer,348.9
+C0017,Kolhapur,Apartment,5,1680,12.7,2,2.9,6,14,11,Yes,3.4,3.2,Yes,0.4,1,3.3,6,2.5,30.2,Monsoon,493
+C0018,Nagpur,Apartment,1,785,9.2,1,6,1,8,6,Yes,9,3.2,Yes,2.5,1,2.9,1,3.2,28.1,Monsoon,413.7
+C0019,Mumbai,Independent House,6,1025,11.8,1,7.6,6,9,6,Yes,4.1,6.2,Yes,1,0,0,2,1.1,28.5,Monsoon,523.8
+C0020,Nashik,Apartment,1,448,10.5,1,6.6,4,6,4,Yes,0.5,1.3,No,0,1,6.2,7,2.6,25.7,Winter,416
+C0021,Kolhapur,Apartment,2,677,9,0,0,5,8,6,Yes,3.3,3.6,Yes,0.7,0,0,4,1.9,21.8,Winter,200.9
+C0022,Kolhapur,Independent House,3,1030,13.2,0,0,3,9,7,Yes,2.1,2.3,No,0,1,5.9,2,2,37.7,Summer,300.8
+C0023,Mumbai,Apartment,7,1178,11.2,2,7,7,9,8,No,4.3,3,Yes,2.5,2,5.8,6,1.5,28.1,Monsoon,716
+C0024,Nashik,Independent House,5,1307,10.5,2,5.6,6,12,11,Yes,2.4,2.9,No,0,0,0,4,2.2,27.3,Monsoon,550.4
+C0025,Nagpur,Apartment,2,667,9.4,0,0,5,9,7,Yes,3.6,3.6,Yes,1.6,1,3.3,4,1.9,20.5,Winter,279.6
+C0026,Pune,Apartment,3,1003,8.9,1,6.3,2,8,6,Yes,2.7,5.8,No,0,1,7.6,2,1.6,18.8,Winter,459.3
+C0027,Nashik,Apartment,2,812,16.5,1,7,5,8,6,Yes,4.4,6.7,Yes,1.4,3,2.9,3,1.5,29.3,Summer,533.8
+C0028,Mumbai,Apartment,6,1101,12.3,1,7.1,6,8,7,Yes,2.9,4.6,Yes,1.3,1,7.7,4,2.4,29.7,Winter,498.7
+C0029,Kolhapur,Apartment,5,1481,8.8,3,3.4,5,11,7,Yes,4.6,1.8,Yes,0.2,1,3.2,5,0.7,27.5,Summer,559.5
+C0030,Nagpur,Apartment,7,2138,12.2,3,5.6,6,20,17,Yes,7.5,3.2,Yes,1.5,1,0.5,4,1.8,25.3,Winter,796.9
+C0031,Nashik,Apartment,1,680,14.2,1,4.8,1,8,6,Yes,1.9,3.9,Yes,0.8,0,0,3,1.2,33.2,Summer,350
+C0032,Pune,Apartment,1,528,11.9,0,0,2,6,4,Yes,5.3,2.8,Yes,2.4,1,5.7,3,1.9,29.1,Summer,265.1
+C0033,Pune,Apartment,3,949,14.9,1,6.4,3,5,4,Yes,0,3,Yes,0.7,4,7.3,1,1.9,28.1,Winter,483.3
+C0034,Solapur,Apartment,7,1403,7.6,2,5.1,7,11,8,Yes,3.6,3.4,Yes,0.9,0,0,5,2.9,29,Monsoon,562.2
+C0035,Solapur,Apartment,4,1435,6.5,2,2.9,5,13,12,Yes,4.4,4.8,Yes,2.9,1,5.7,1,2.7,25.4,Winter,479.5
+C0036,Aurangabad,Apartment,6,1029,12.2,1,2.3,6,7,6,Yes,2.7,4.4,Yes,1.7,0,0,2,2.3,30.2,Summer,385.8
+C0037,Mumbai,Independent House,3,925,12.2,1,6.1,6,8,7,No,0.8,2.5,Yes,0.5,1,6.6,0,2.2,30.5,Monsoon,396.6
+C0038,Nashik,Apartment,4,1371,5,1,4.1,4,13,11,Yes,3.9,4.5,No,0,0,0,5,1.8,25.3,Winter,352.3
+C0039,Nashik,Independent House,2,791,9.9,1,6.8,3,5,4,Yes,6.8,6.4,No,0,1,7.3,1,1.8,30.7,Summer,446.6
+C0040,Aurangabad,Independent House,6,1703,9,2,2.2,6,12,10,Yes,3.7,0.9,No,0,0,0,5,0.3,34.9,Summer,450.6
+C0041,Kolhapur,Apartment,2,952,8,2,8.7,4,7,5,Yes,5,2.8,No,0,0,0,4,2.7,33.4,Summer,687.6
+C0042,Kolhapur,Independent House,7,1199,9,1,6.8,8,11,8,Yes,6,2.6,Yes,2.5,2,6.1,2,2.3,24.5,Winter,550.8
+C0043,Aurangabad,Villa,5,1656,13,2,5.7,6,13,9,Yes,8.4,3.6,No,0,0,0,1,3.2,20.8,Winter,631
+C0044,Kolhapur,Apartment,6,1533,9,2,8.9,6,15,13,Yes,2.1,0.4,Yes,1.6,2,6,3,1.4,25.6,Monsoon,793.6
+C0045,Solapur,Apartment,4,1410,9,2,7.4,3,13,9,Yes,2.3,5.8,Yes,1.9,1,8.7,4,3.3,33.2,Summer,749.2
+C0046,Nashik,Independent House,5,1538,7.5,2,4.5,5,16,13,Yes,3.5,3.6,No,0,1,1.3,4,1.8,35.7,Summer,557.8
+C0047,Aurangabad,Independent House,1,803,14.7,1,5.7,4,6,4,Yes,5.1,4,Yes,0.7,0,0,2,1.4,28.5,Monsoon,377.5
+C0048,Nashik,Apartment,4,1767,12.6,2,1.6,6,16,15,Yes,0,3.8,Yes,1.3,1,4.1,3,3.5,21.5,Winter,399.3
+C0049,Pune,Apartment,3,897,5.3,0,0,4,7,5,Yes,5.2,2.6,Yes,0.9,1,4.7,5,2.4,29.2,Monsoon,255.8
+C0050,Solapur,Apartment,1,712,9,1,4.9,2,8,6,Yes,4.3,4.7,Yes,2.7,3,4.9,5,3.7,26,Monsoon,434.7
+C0051,Nagpur,Apartment,1,491,12.8,0,0,3,5,5,Yes,3,3.5,Yes,0.2,0,0,1,2.2,27.4,Monsoon,225.1
+C0052,Solapur,Independent House,3,937,14.7,1,3.1,4,7,5,Yes,4.8,0,Yes,0.8,1,4.1,2,2.8,23.4,Winter,332.3
+C0053,Aurangabad,Apartment,6,1537,13.6,1,7.2,7,13,12,No,5.6,3.3,Yes,1.1,0,0,5,3,25.8,Monsoon,506.8
+C0054,Nagpur,Apartment,1,597,10.6,1,8.7,2,6,4,Yes,5.9,3,Yes,1.3,0,0,3,1.7,23.6,Winter,436.4
+C0055,Pune,Independent House,7,1710,6.7,2,5.5,8,14,10,Yes,4,4.7,Yes,1.3,0,0,1,2.3,29.1,Summer,632
+C0056,Aurangabad,Apartment,4,1120,13.7,1,3.5,4,11,9,Yes,4.6,8,Yes,1.2,0,0,3,2.2,25.4,Winter,380.7
+C0057,Mumbai,Apartment,5,1427,10.8,2,2.7,7,11,10,Yes,4.5,4.1,No,0,0,0,4,2.8,24.9,Monsoon,469.8
+C0058,Nashik,Independent House,1,812,11.7,1,8.3,3,11,8,Yes,6.2,7.1,Yes,1.4,0,0,3,0.9,22.9,Monsoon,495.5
+C0059,Pune,Independent House,4,830,11.1,2,6.4,4,9,8,Yes,4.7,2.3,No,0,1,0.5,2,2.6,23.6,Monsoon,573.4
+C0060,Nashik,Apartment,2,1022,8.1,1,4.8,3,10,8,Yes,5.2,2.4,Yes,2.5,0,0,2,2.9,38,Summer,371.9
+C0061,Kolhapur,Apartment,4,934,12.4,1,4.4,6,13,12,Yes,5.6,3.1,Yes,2.4,1,5.4,2,1.3,34.3,Summer,442.3
+C0062,Mumbai,Apartment,5,1830,12.1,1,6.8,5,15,12,Yes,7.5,4.2,Yes,1.4,2,3.4,2,1.1,15.5,Winter,543.2
+C0063,Mumbai,Apartment,4,1074,10.4,1,6.8,5,11,8,Yes,2.9,2.4,Yes,0.9,0,0,4,0.3,32.6,Summer,457.4
+C0064,Pune,Apartment,3,1276,12.7,2,3.7,4,12,11,Yes,6.9,0.8,Yes,0.9,0,0,3,4.1,25.2,Winter,470.1
+C0065,Mumbai,Apartment,5,768,8.1,1,3.2,7,9,8,Yes,8.4,3.5,Yes,0.3,0,0,4,1.3,28.1,Monsoon,392.8
+C0066,Nagpur,Apartment,6,1681,10.8,1,3.3,8,17,14,Yes,3.1,1.6,Yes,1.9,0,0,1,3.4,28.6,Monsoon,416.2
+C0067,Mumbai,Apartment,2,928,11.6,2,4.6,5,9,6,Yes,3.6,5.4,Yes,1.2,0,0,4,1.8,24.5,Winter,517.7
+C0068,Nashik,Apartment,3,845,7.2,1,4.1,4,10,7,Yes,3.2,4.6,Yes,1.5,0,0,1,3.1,22.4,Winter,354.2
+C0069,Nashik,Apartment,6,1510,11.4,2,8.7,6,12,10,Yes,5.2,2.2,No,0,1,3.1,4,2.6,28.7,Monsoon,764.5
+C0070,Aurangabad,Apartment,4,1446,13.3,3,4.5,4,12,8,Yes,0.6,4.3,Yes,0.7,1,1.2,1,4.1,32.3,Summer,658.2
+C0071,Nashik,Apartment,5,1130,10.7,2,3,7,13,10,Yes,3.1,2.6,Yes,0.6,1,6.9,2,3.4,22.6,Winter,469.6
+C0072,Aurangabad,Apartment,2,899,11.4,1,3.1,4,9,7,Yes,3.5,3.4,No,0,1,5.1,7,2.2,20.5,Winter,368.5
+C0073,Nashik,Independent House,3,884,12.9,1,5.1,5,9,8,Yes,3.4,3.4,Yes,1.5,1,5.3,2,2.3,23.1,Winter,472
+C0074,Nagpur,Independent House,6,1401,10.5,2,1.9,6,11,7,Yes,3.3,2.9,No,0,1,4.8,4,2.7,22.9,Winter,405
+C0075,Aurangabad,Independent House,6,1275,10.8,1,5.4,4,13,10,Yes,3.1,4.9,No,0,1,6.2,3,4.7,32.3,Summer,507.6
+C0076,Solapur,Independent House,2,1127,8.6,1,2.8,2,9,7,Yes,5.4,1.6,Yes,0.5,1,3.2,2,2.1,22.7,Winter,323.9
+C0077,Kolhapur,Apartment,7,1986,11.5,2,7.8,7,15,13,Yes,5,4.4,Yes,1,0,0,2,0.7,35.8,Summer,807.3
+C0078,Pune,Apartment,4,1438,10.7,2,5.7,4,13,10,Yes,7.1,4,Yes,1.2,2,5.3,2,2.2,37.3,Summer,680.1
+C0079,Nashik,Apartment,2,800,12.7,0,0,3,4,3,Yes,5.4,1.1,Yes,1.6,1,5.3,3,1.4,27.4,Summer,295.7
+C0080,Mumbai,Independent House,6,2115,12.9,2,5,7,19,16,Yes,2,2.1,Yes,1.2,1,1.6,3,2.2,35.1,Summer,614.6
+C0081,Nashik,Independent House,1,544,13.5,0,0,4,6,5,Yes,3.7,1.6,No,0,0,0,1,3.2,31.3,Monsoon,198.1
+C0082,Mumbai,Apartment,3,1035,10.2,1,8.4,3,9,8,Yes,3.5,2.9,No,0,1,4.8,4,2.5,36.9,Summer,491.8
+C0083,Kolhapur,Apartment,2,704,6.1,0,0,2,7,7,Yes,4.5,3.6,Yes,1.3,1,7.6,4,1.4,36.6,Summer,281.3
+C0084,Kolhapur,Apartment,7,1522,13.4,2,6.8,6,13,11,Yes,6,1.9,Yes,1.5,0,0,4,1.8,40.9,Summer,753.7
+C0085,Kolhapur,Apartment,6,1303,12.6,1,3.5,5,10,9,Yes,4.3,5.1,No,0,0,0,3,0.9,26.2,Monsoon,425.5
+C0086,Mumbai,Independent House,4,1502,9.9,1,5.4,5,13,9,Yes,4.3,5.3,Yes,0.4,1,1,1,3.3,30.4,Monsoon,440.1
+C0087,Nashik,Independent House,6,1409,12.9,2,5.9,6,12,9,Yes,4,5.6,Yes,1.1,0,0,7,2.8,27,Monsoon,659.3
+C0088,Kolhapur,Apartment,4,1247,7.9,2,5,7,11,9,Yes,5.5,0,Yes,0.7,2,4.9,2,0.9,20,Winter,532.4
+C0089,Nagpur,Villa,2,940,14.1,1,2,4,8,6,Yes,3,6.8,Yes,1.4,1,4.9,3,4.5,29.2,Monsoon,373.1
+C0090,Aurangabad,Independent House,4,1260,10.7,2,10,7,11,9,Yes,1.4,3.8,Yes,2.2,0,0,2,1.8,36,Summer,823
+C0091,Mumbai,Apartment,5,1375,9.4,1,7.2,4,12,9,Yes,5.2,3.6,Yes,0.3,2,5.9,3,2.3,22,Winter,517.1
+C0092,Mumbai,Apartment,5,921,9.9,2,6.3,2,10,9,Yes,4.7,3.3,Yes,2,1,3.7,2,1.7,28,Summer,638.8
+C0093,Nashik,Apartment,5,1468,10.9,1,8.1,6,12,9,Yes,6.4,1.3,Yes,1.5,1,3.6,5,2.4,28.7,Summer,558.9
+C0094,Mumbai,Apartment,7,1354,11.5,2,6.8,7,13,10,Yes,0,4.1,Yes,2,2,3.8,1,2.1,24.3,Monsoon,674.9
+C0095,Mumbai,Apartment,7,1245,11.6,2,4.1,7,12,11,Yes,3.8,6.2,Yes,0.9,2,6.7,3,0.6,23,Winter,546.8
+C0096,Kolhapur,Apartment,1,485,10.4,1,8,3,3,2,Yes,4.2,3.8,No,0,4,6.2,2,3.2,20.9,Winter,514.4
+C0097,Nashik,Apartment,7,1872,12,2,7.2,6,17,13,Yes,1.3,1.6,Yes,1.3,2,7.8,3,1.2,34.4,Summer,784.1
+C0098,Kolhapur,Apartment,2,586,11.5,0,0,4,9,7,Yes,3.8,0.9,Yes,2.2,1,5.1,1,2.9,24.2,Winter,263.6
+C0099,Aurangabad,Independent House,6,1629,9.9,1,7.1,7,14,13,No,6.1,3,Yes,0.5,2,7.9,2,1.8,22,Winter,537.9
+C0100,Aurangabad,Apartment,6,1562,9.5,1,5,5,13,10,Yes,7.8,2.2,Yes,0.6,1,4.5,2,2.1,32.6,Summer,457.5
+C0101,Kolhapur,Apartment,1,418,13,0,0,2,4,3,Yes,5.8,4.7,No,0,0,0,3,2.5,34.8,Summer,241
+C0102,Aurangabad,Apartment,7,1446,12.8,2,6.7,7,14,10,Yes,3.4,5.8,Yes,0.8,1,3.1,3,2.1,19.2,Winter,691.4
+C0103,Nashik,Villa,4,1209,11.6,2,8.2,4,12,10,Yes,6.3,4.3,Yes,2.4,2,3.6,2,2.7,30.6,Summer,765.6
+C0104,Pune,Apartment,1,612,13.8,1,4.2,2,4,3,Yes,5.6,3.4,No,0,0,0,3,1.3,33,Summer,356.2
+C0105,Kolhapur,Apartment,4,874,6.6,1,6.2,5,7,6,Yes,3.1,3.3,Yes,0.7,1,2.6,2,3,29.8,Summer,418
+C0106,Nagpur,Villa,4,625,10.1,2,9.5,5,7,6,Yes,3,3.6,Yes,0.8,1,2.8,1,1,34.5,Summer,735.3
+C0107,Nagpur,Independent House,3,918,8.6,1,5.1,3,8,7,Yes,3.7,1.5,Yes,0.8,0,0,4,1.1,31.6,Summer,401.2
+C0108,Mumbai,Independent House,6,1324,17.1,2,5.9,5,10,9,Yes,2.1,4.5,No,0,0,0,3,2.6,35.2,Summer,626.1
+C0109,Aurangabad,Apartment,5,1245,13.3,1,9.5,6,13,10,Yes,3.4,1.7,Yes,1.4,0,0,1,3,32.3,Summer,576.5
+C0110,Nagpur,Apartment,7,1813,11.3,2,6.8,6,14,12,Yes,4.9,5.4,No,0,1,0.5,6,2.3,27.8,Winter,749.3
+C0111,Mumbai,Independent House,4,1269,13.5,2,2.6,4,11,9,Yes,5.9,2.9,Yes,0.4,1,0.5,0,3.5,37,Summer,468
+C0112,Pune,Villa,3,778,14.3,1,3.9,4,7,6,Yes,3.3,4.9,Yes,1.8,1,1.2,3,1.2,31.1,Monsoon,403.9
+C0113,Nashik,Independent House,6,958,14.3,1,6.9,7,7,5,Yes,6.5,1,No,0,0,0,3,0.8,14.3,Winter,459.3
+C0114,Nashik,Independent House,5,1399,13.8,2,6.3,5,13,9,No,5.2,4.9,Yes,0.6,0,0,4,2.8,24,Winter,629.5
+C0115,Nashik,Apartment,4,1305,10.8,1,5.8,7,12,9,Yes,5.3,5.8,No,0,2,4.6,3,2.1,35.9,Summer,512.5
+C0116,Nagpur,Independent House,4,1279,10.2,1,9.8,6,11,9,Yes,2.3,1.3,No,0,0,0,5,2.8,32.8,Summer,567.1
+C0117,Pune,Apartment,1,521,9.1,0,0,5,5,4,Yes,7.3,3.3,No,0,0,0,6,1,31.5,Monsoon,248.1
+C0118,Nagpur,Apartment,1,818,12.8,1,5.4,3,9,8,Yes,5,4.1,Yes,1.4,1,0.5,3,1.6,22.5,Winter,392.5
+C0119,Aurangabad,Apartment,6,1142,11.1,1,1.6,6,7,5,No,3.4,4.2,Yes,0.4,2,2.7,5,3.7,28.9,Summer,362.4
+C0120,Nagpur,Apartment,5,1304,10.5,1,7.8,5,10,7,Yes,3.1,2.9,No,0,1,5.4,2,1.8,28.1,Monsoon,491.2
+C0121,Pune,Apartment,4,1194,10.3,1,3.9,4,11,10,Yes,3.4,2.6,Yes,1.9,1,4,5,3.4,20.7,Winter,418.7
+C0122,Pune,Apartment,6,1691,15.1,2,7.6,8,14,11,Yes,2.2,3.9,Yes,0.2,1,4.2,3,2.8,25.6,Monsoon,745.7
+C0123,Aurangabad,Independent House,6,1327,13.9,2,7.4,6,11,9,Yes,5.8,4.1,Yes,0.9,0,0,2,1.7,25.4,Winter,694.3
+C0124,Pune,Apartment,2,759,16.1,1,10,4,9,7,Yes,2.4,2.4,Yes,1.6,0,0,3,3.4,27.3,Monsoon,525.9
+C0125,Pune,Independent House,7,1189,12.8,2,6.8,7,10,9,Yes,4.5,2.1,Yes,1.3,0,0,1,2.3,34.8,Summer,703.5
+C0126,Nashik,Apartment,1,863,11.6,1,4.8,3,11,9,Yes,3.2,5.6,Yes,0.5,0,0,0,2,27.1,Monsoon,360.5
+C0127,Aurangabad,Apartment,5,1905,11.4,3,6.4,6,14,9,Yes,5.2,3.7,Yes,1.5,0,0,1,1.9,29,Monsoon,813.8
+C0128,Solapur,Apartment,4,950,8.9,1,4,5,5,4,Yes,5.5,0,Yes,0.4,0,0,5,2.4,24.7,Winter,308
+C0129,Solapur,Apartment,6,1162,8.3,1,6.1,5,12,8,Yes,2.8,5.6,Yes,0.6,0,0,1,0.9,23.2,Winter,465.1
+C0130,Pune,Apartment,4,1282,12.8,2,5.1,5,10,9,Yes,3.9,2.5,No,0,2,1.8,5,2.9,26.8,Winter,564.7
+C0131,Solapur,Apartment,2,698,9.2,1,5.4,4,5,3,Yes,1.4,3.6,Yes,2.3,2,1,2,2.4,28.9,Summer,395.3
+C0132,Solapur,Apartment,5,1294,12,1,3.7,6,13,10,Yes,7.1,4.1,Yes,0.2,2,0.5,0,1.4,31.7,Monsoon,426
+C0133,Pune,Villa,6,1279,14.3,2,6.1,6,11,8,Yes,5.9,1,Yes,0.2,1,5.6,5,0.7,33.4,Monsoon,662
+C0134,Solapur,Apartment,4,993,9.8,0,0,5,11,10,Yes,1.5,3,Yes,1.4,1,1.1,1,1.7,30.6,Monsoon,294.6
+C0135,Nagpur,Independent House,1,467,16.5,1,2.2,2,4,3,Yes,2.4,5.7,Yes,1.3,0,0,1,2.3,27.4,Monsoon,310.6
+C0136,Mumbai,Apartment,7,1932,9,1,4.1,6,17,16,Yes,3.8,5.4,No,0,0,0,3,2.2,21.7,Winter,461.5
+C0137,Aurangabad,Independent House,2,869,14,0,0,4,7,5,Yes,4.1,3,No,0,2,7.3,8,2.1,25,Monsoon,264.1
+C0138,Mumbai,Independent House,5,1381,12.6,2,1,4,11,8,Yes,2.8,4.7,No,0,0,0,0,2.7,26.6,Monsoon,344.3
+C0139,Pune,Independent House,2,710,14.5,0,0,4,10,7,Yes,1.9,4.9,Yes,1.3,1,3.2,7,0.8,21.8,Winter,275.3
+C0140,Nashik,Apartment,1,402,8.7,1,4.1,1,6,5,Yes,4.7,4.9,Yes,1.3,1,4.1,5,1.9,29.1,Summer,345.5
+C0141,Aurangabad,Apartment,5,1823,17.3,2,3.6,5,14,13,Yes,7.1,1.6,Yes,2.1,0,0,2,2.3,29.9,Summer,554.4
+C0142,Pune,Apartment,2,944,11.1,0,0,3,8,5,Yes,4.1,6.3,Yes,2.5,0,0,2,2.5,29.4,Monsoon,289.2
+C0143,Nashik,Villa,3,917,13.2,2,5.8,2,11,7,Yes,3.5,2.7,Yes,1,1,1.9,1,2.9,22.9,Winter,537.6
+C0144,Mumbai,Independent House,1,825,15.1,2,4,2,6,5,Yes,3.3,3.7,Yes,0.3,0,0,2,1.8,35.1,Summer,472.9
+C0145,Pune,Villa,1,624,10,1,7.5,4,5,3,No,2,2.9,Yes,1.5,2,2.5,5,2.1,31.4,Summer,425.8
+C0146,Aurangabad,Apartment,1,771,13.6,0,0,1,8,6,Yes,2.8,3.9,Yes,1.1,4,3.6,2,1.3,24.8,Winter,284.6
+C0147,Aurangabad,Independent House,3,507,9.6,1,3.8,4,9,6,Yes,6,2,Yes,1.1,0,0,3,2.4,24,Winter,302.9
+C0148,Kolhapur,Villa,3,1016,15,1,4.5,6,9,6,No,0.3,3.1,Yes,0.2,2,5.7,4,1.1,27.9,Winter,428.8
+C0149,Nagpur,Apartment,4,1153,9.6,1,2.5,4,12,9,Yes,4.1,3.8,No,0,1,3.3,2,2.6,36.7,Summer,338.1
+C0150,Solapur,Apartment,6,1103,11.6,2,3,8,8,5,Yes,4.1,5.6,Yes,1.5,1,5.8,0,3.2,30.5,Winter,516.8
+C0151,Nashik,Independent House,7,2175,12.3,2,6.3,7,19,14,Yes,4.2,5.4,Yes,1.9,0,0,3,2.5,27.2,Monsoon,728.1
+C0152,Kolhapur,Independent House,2,789,13.5,1,3.8,4,7,6,Yes,5.3,5.5,Yes,0.8,1,4,4,3.3,28.7,Monsoon,427.5
+C0153,Solapur,Independent House,4,986,16.4,0,0,6,12,9,Yes,4.1,5,No,0,1,5.9,1,1.5,31,Summer,309.9
+C0154,Solapur,Apartment,2,575,10.4,0,0,3,8,7,Yes,3.2,6.6,Yes,0.8,1,1.6,4,0.8,26.1,Winter,232.6
+C0155,Pune,Independent House,7,1417,14.3,1,2.8,8,16,11,Yes,2.8,3,No,0,0,0,3,1.8,34.8,Summer,440.5
+C0156,Solapur,Apartment,6,2045,16.4,2,3.2,7,16,14,Yes,6.3,3.2,Yes,2.2,0,0,2,1.4,33.7,Summer,575
+C0157,Nagpur,Apartment,3,907,11.9,0,0,3,9,7,Yes,5.9,3.2,No,0,0,0,5,1.5,27.2,Monsoon,291.7
+C0158,Aurangabad,Apartment,6,1563,10.1,2,5.3,5,14,12,Yes,9,3.4,Yes,1.7,0,0,5,0,30.9,Summer,634.4
+C0159,Kolhapur,Independent House,3,915,7.2,0,0,4,8,6,Yes,3.5,1.1,Yes,1.2,1,2.1,1,2.2,29.8,Summer,244.9
+C0160,Solapur,Independent House,7,1742,16.2,1,4.8,7,15,14,Yes,2.9,4,Yes,1.3,0,0,0,2,24.6,Monsoon,473.8
+C0161,Pune,Apartment,6,1567,10.9,3,4.4,5,15,11,Yes,4.8,4.3,Yes,1.4,1,7.9,3,2.8,19,Winter,710.5
+C0162,Nagpur,Apartment,4,1569,9,2,7.7,4,13,10,Yes,4.8,3.1,No,0,1,1.3,2,2.6,34.7,Summer,666.4
+C0163,Mumbai,Independent House,5,1337,8.1,1,3.8,2,11,10,Yes,5.1,0.5,Yes,1.8,2,5.1,6,1.8,25.2,Winter,435.2
+C0164,Aurangabad,Apartment,4,1198,9,1,6.5,4,10,8,Yes,5.5,3.5,Yes,0.2,3,4.3,4,2.9,25,Monsoon,507.5
+C0165,Aurangabad,Independent House,2,711,13.8,1,5.1,4,5,4,Yes,5.1,1.3,No,0,0,0,3,2.9,27.6,Monsoon,353.7
+C0166,Kolhapur,Apartment,4,1530,14.1,2,7.3,3,15,14,Yes,5.9,4.2,Yes,0.2,1,3.4,2,1.5,27.5,Monsoon,680.8
+C0167,Aurangabad,Apartment,7,1131,13.1,2,9.1,6,9,7,Yes,6.2,3.7,No,0,4,0.5,2,2.2,21.4,Winter,744.3
+C0168,Solapur,Apartment,1,437,11.8,0,0,5,4,3,Yes,6.2,3.9,Yes,2.1,1,4.6,6,3.5,32.8,Summer,330.5
+C0169,Pune,Apartment,2,526,8.4,0,0,3,6,6,Yes,0,1.7,No,0,0,0,1,2.3,38.2,Summer,222.1
+C0170,Aurangabad,Independent House,6,1700,9.7,3,6.8,8,15,11,Yes,4.4,5.6,Yes,0.4,1,1.3,2,1.2,24.1,Monsoon,826.6
+C0171,Aurangabad,Apartment,2,619,8.7,0,0,2,5,5,No,2.3,3.8,Yes,0.6,2,5.1,5,0.9,26.2,Winter,203.1
+C0172,Mumbai,Apartment,5,1907,12.9,2,8.7,6,17,12,Yes,5.9,1.9,Yes,2,0,0,0,0.5,32.4,Summer,782.9
+C0173,Mumbai,Independent House,3,705,8.8,1,8.4,3,6,5,Yes,0,4.5,Yes,2.2,3,2.5,4,0,32.4,Monsoon,508.8
+C0174,Nashik,Apartment,6,1563,9.7,1,3.5,7,10,8,Yes,6.6,3.7,Yes,1.9,1,2,2,1.5,25.7,Winter,444.9
+C0175,Nagpur,Apartment,2,921,11,1,2.3,4,11,10,Yes,2.4,6.6,Yes,2,3,5.3,6,1.8,26.3,Winter,393.9
+C0176,Solapur,Villa,6,1340,7.3,1,3.2,7,11,9,Yes,2,2.6,No,0,2,0.7,0,1,34.4,Summer,373.3
+C0177,Aurangabad,Independent House,6,1773,11.6,2,3.2,6,14,9,Yes,4.6,1.4,No,0,1,0.8,2,1.3,25.6,Monsoon,474.7
+C0178,Aurangabad,Apartment,6,1440,11.2,1,7.1,6,12,10,Yes,3.3,4,No,0,0,0,2,1,29.9,Summer,477.6
+C0179,Pune,Villa,3,1121,14.5,2,8.6,4,10,7,Yes,7.2,5.2,No,0,3,2.9,3,0.4,26.2,Winter,737.3
+C0180,Nashik,Independent House,7,1616,9.5,2,7.1,8,14,12,Yes,6.5,7.4,No,0,1,5.3,3,1.8,35.5,Summer,772.6
+C0181,Nagpur,Apartment,4,914,8.3,1,5,5,10,9,Yes,3.1,8,No,0,1,3.8,6,2.7,24.6,Winter,412.3
+C0182,Nashik,Apartment,6,1533,10.6,1,6.2,7,16,13,Yes,5.9,0.9,No,0,1,3.8,3,1.5,20.3,Winter,477.4
+C0183,Kolhapur,Independent House,1,644,8.8,1,3.8,4,5,4,Yes,3,3.3,Yes,1.8,2,0.8,0,3.1,19.6,Winter,313
+C0184,Nagpur,Independent House,7,1811,11.6,2,7.7,7,14,10,Yes,3,1.4,No,0,0,0,3,2.2,23.6,Winter,710.5
+C0185,Aurangabad,Apartment,5,1177,6.9,1,6.4,6,10,8,Yes,5.3,3.1,No,0,1,0.5,2,2.9,28.6,Summer,453.1
+C0186,Aurangabad,Independent House,3,762,10,1,7,3,8,6,Yes,6.6,7.7,Yes,1.4,0,0,3,2,32.1,Summer,486.6
+C0187,Nagpur,Independent House,2,584,9.2,0,0,4,6,5,Yes,3.2,2.1,Yes,1,2,5.4,3,2.7,26.6,Monsoon,286.7
+C0188,Aurangabad,Apartment,3,829,12.9,1,5.2,4,7,5,Yes,3.3,3.5,Yes,1.3,0,0,3,0.6,27.4,Monsoon,385.3
+C0189,Solapur,Apartment,2,724,9.5,1,7,3,5,4,Yes,4.5,2.5,No,0,2,4.8,3,2.8,31.5,Summer,448.1
+C0190,Nagpur,Apartment,3,657,7.2,1,8.4,4,3,2,No,2.4,1.8,No,0,2,3.1,2,2,28.5,Monsoon,423
+C0191,Nashik,Independent House,2,674,11,2,4.3,5,5,4,Yes,6.8,6.5,Yes,2.7,0,0,2,3.1,24.3,Winter,506.7
+C0192,Nagpur,Apartment,6,1299,12.3,1,7.1,3,13,9,Yes,2.4,0.9,Yes,1.9,3,4.5,1,1.7,21.7,Winter,534.5
+C0193,Aurangabad,Independent House,4,880,10.8,1,4.1,4,9,8,Yes,2.9,3.4,Yes,1.4,0,0,3,3.7,34,Summer,412.4
+C0194,Solapur,Independent House,2,542,10,1,9.7,3,5,4,Yes,7.2,3.6,Yes,1.6,1,6.3,3,2.5,27.4,Monsoon,507.7
+C0195,Solapur,Independent House,2,997,9.8,1,4.7,5,10,8,Yes,4.4,3.4,Yes,1.7,0,0,0,1.1,28.1,Monsoon,413.1
+C0196,Kolhapur,Apartment,1,793,11.8,2,6.8,3,6,4,Yes,7.5,3,Yes,2.4,1,3.2,3,3.1,23.9,Winter,617.6
+C0197,Nashik,Independent House,2,936,9.3,1,5.8,4,9,8,Yes,3.6,6.2,No,0,1,5,1,0.9,25.9,Monsoon,417.9
+C0198,Mumbai,Apartment,1,721,10.7,1,10,4,4,3,Yes,8.5,0,Yes,1.6,0,0,3,0.9,22.8,Winter,489.1
+C0199,Mumbai,Independent House,5,1410,13.4,1,6,5,13,11,Yes,5.1,4.2,Yes,0.7,1,3.1,2,3.3,18,Winter,486.1
+C0200,Nagpur,Apartment,6,1861,8.2,2,4.5,7,16,12,Yes,2.6,4.3,No,0,1,4.1,4,2.3,17.3,Winter,573.8
+C0201,Kolhapur,Apartment,1,468,11.4,0,0,2,6,5,No,2.6,4,Yes,1.6,0,0,2,2.1,27.4,Winter,208.2
+C0202,Pune,Independent House,4,1284,7,2,6.7,4,13,9,Yes,1.4,2.1,Yes,1.7,0,0,7,1.5,23.8,Winter,607.5
+C0203,Nagpur,Apartment,7,1036,12.1,1,5.2,8,11,8,Yes,1.6,5.5,Yes,0.7,0,0,6,2.8,21.6,Winter,488.1
+C0204,Kolhapur,Apartment,6,1789,9.1,2,3.3,7,13,10,Yes,2.8,5.5,Yes,1.7,0,0,6,1.7,31.4,Summer,543.9
+C0205,Nashik,Independent House,1,648,14,0,0,3,8,5,No,2.2,2,No,0,1,5.4,2,2.2,34.6,Summer,241.7
+C0206,Nashik,Independent House,6,1206,7.8,0,0,5,10,7,Yes,0,1.5,No,0,0,0,2,0.9,23.2,Winter,244.2
+C0207,Nashik,Independent House,6,1422,12.6,3,2,7,9,8,Yes,5.5,1.1,Yes,0.4,1,3.5,2,1.9,27.3,Summer,479.4
+C0208,Nashik,Independent House,6,1706,14.6,2,5,8,14,13,Yes,5.4,3.9,Yes,2,1,0.8,0,2.2,28.8,Monsoon,606.7
+C0209,Nashik,Apartment,5,1025,8.9,1,7.5,5,10,9,Yes,4.6,3.6,Yes,0.6,0,0,3,2.5,21.8,Winter,492.1
+C0210,Kolhapur,Apartment,4,1071,9.3,1,5.3,4,8,6,Yes,2,2.9,No,0,2,3.8,3,2.3,17.8,Winter,399.8
+C0211,Kolhapur,Apartment,3,1131,9.1,2,9.8,4,12,9,Yes,7,7,No,0,0,0,2,1.7,33.5,Summer,794.6
+C0212,Solapur,Apartment,3,1055,10.3,2,2,3,8,7,Yes,3.7,2.7,Yes,1.5,0,0,4,2.3,23.6,Monsoon,357.8
+C0213,Mumbai,Villa,1,610,12.8,0,0,1,5,3,Yes,2.5,3.8,Yes,1.4,0,0,1,3,27,Monsoon,241
+C0214,Aurangabad,Independent House,6,1583,10.1,1,1,5,13,12,Yes,4.4,3.2,No,0,1,5.2,3,0.5,36.7,Summer,374.2
+C0215,Nashik,Apartment,1,483,8.7,0,0,2,3,2,No,4.3,6.8,No,0,1,4,3,1.8,19.9,Winter,205.4
+C0216,Pune,Apartment,5,1370,6.5,2,3.6,5,11,10,Yes,0,0.1,Yes,1,3,5.2,5,2.2,27.4,Monsoon,496.9
+C0217,Aurangabad,Villa,5,1467,15.5,2,1.5,7,12,10,Yes,3.9,3,No,0,2,1.8,4,1.1,28.4,Winter,398.1
+C0218,Kolhapur,Apartment,2,1106,15.7,1,4.3,5,10,9,No,4.2,4.5,Yes,0.2,3,4.2,4,2.9,36.7,Summer,449.6
+C0219,Pune,Independent House,5,1366,12.9,2,2.7,6,8,5,Yes,3.3,3.1,Yes,0.3,2,4.7,3,2.6,26.2,Monsoon,498.7
+C0220,Pune,Apartment,2,1102,9.5,1,4.3,4,11,10,Yes,1.6,1.3,Yes,2,2,3,2,3,21.9,Winter,389.2
+C0221,Pune,Independent House,4,1237,13.4,1,5.6,5,12,9,Yes,1.7,3.8,Yes,1.2,0,0,4,4.2,31,Monsoon,509.8
+C0222,Solapur,Apartment,1,826,13.9,1,7.1,2,10,9,Yes,4.9,0.7,Yes,0.8,0,0,5,2.3,34.4,Summer,452.1
+C0223,Kolhapur,Independent House,7,1872,10.9,1,5.2,8,14,12,Yes,5.4,4.6,Yes,0.8,4,3,3,1.7,28.9,Winter,550.1
+C0224,Pune,Villa,4,1264,11.6,2,5.6,5,11,8,Yes,3.2,2.8,Yes,1.6,0,0,2,2.9,23.4,Winter,565.9
+C0225,Nashik,Independent House,5,1434,14.6,2,4.3,5,14,11,Yes,4.7,2.5,Yes,2.1,0,0,1,1.4,27.5,Monsoon,575.6
+C0226,Nagpur,Independent House,4,1193,7.4,1,2.5,6,12,10,Yes,3.2,5.3,Yes,0.8,0,0,2,2.5,27.7,Monsoon,367.1
+C0227,Pune,Villa,4,1470,14,1,1.8,5,15,11,Yes,2.5,1.8,Yes,2,0,0,2,3,37.2,Summer,374
+C0228,Solapur,Independent House,4,1097,10.7,2,4.8,6,10,8,No,4.4,0.9,No,0,2,4.6,0,2.8,19,Winter,484.3
+C0229,Aurangabad,Apartment,5,1113,8.7,2,5.7,5,10,7,Yes,1.9,2,Yes,1.6,3,2.5,6,3.4,26.6,Winter,611.4
+C0230,Kolhapur,Independent House,7,1469,8.9,2,4.6,8,10,8,Yes,7.4,7,Yes,0.2,0,0,2,1.7,31,Summer,600.7
+C0231,Solapur,Independent House,6,1834,9.3,2,1.9,7,17,14,Yes,1.4,1.8,No,0,1,3.8,3,2.7,37.4,Summer,426.5
+C0232,Pune,Apartment,4,1035,8.5,2,5.9,6,9,8,Yes,4.5,4.1,Yes,1.8,0,0,3,2.1,25.5,Winter,578.2
+C0233,Kolhapur,Independent House,2,746,15.9,1,8.8,3,7,5,Yes,4.3,4.9,Yes,1.4,1,2.7,1,2.3,34.6,Summer,520.3
+C0234,Nagpur,Villa,5,954,12.7,1,5.3,5,9,8,Yes,4.1,1.9,Yes,1.5,0,0,1,2.3,20.3,Winter,416.7
+C0235,Pune,Villa,4,1454,14.2,2,4.3,7,9,8,Yes,6.7,1.9,No,0,1,4,1,2.5,23,Winter,518
+C0236,Solapur,Apartment,7,1229,12.9,1,5.4,7,10,8,Yes,0,3.8,No,0,0,0,1,2,18.1,Winter,446.8
+C0237,Mumbai,Apartment,6,1952,11.7,2,3.3,7,17,13,Yes,4.7,3.9,Yes,0.2,0,0,1,0.6,21.6,Winter,512.1
+C0238,Nashik,Villa,5,1557,11.7,2,3.2,8,13,10,Yes,3.5,5.8,Yes,0.6,1,7.2,7,2.2,28.8,Monsoon,542.1
+C0239,Aurangabad,Independent House,3,802,10.5,1,6.4,2,8,7,Yes,5.1,2.2,Yes,1.2,1,2.9,5,2.4,36.4,Summer,448.1
+C0240,Solapur,Apartment,6,833,10.7,0,0,6,9,8,Yes,4.1,2.9,No,0,1,2.7,3,2,17.8,Winter,307.5
+C0241,Kolhapur,Villa,2,648,8,0,0,3,5,4,Yes,3.9,8,Yes,0.7,2,4.3,4,2.4,26.1,Monsoon,284.3
+C0242,Pune,Independent House,4,1152,14.2,1,1.6,3,10,9,Yes,1.8,0.5,No,0,0,0,1,1.9,26.7,Monsoon,288.9
+C0243,Nashik,Apartment,7,1827,7,2,6.2,6,15,11,Yes,2.8,0.1,Yes,1.2,0,0,2,1.7,28.9,Summer,645.4
+C0244,Pune,Independent House,3,652,8.9,1,9.6,3,8,5,Yes,9,1.1,Yes,1,1,3.8,3,3.4,32.3,Summer,507.2
+C0245,Kolhapur,Apartment,7,1790,16.5,2,5,8,15,13,No,5.1,5.4,No,0,0,0,4,4.3,35,Summer,625.9
+C0246,Pune,Apartment,3,1052,11.8,2,5.1,2,7,6,Yes,5.9,2.8,No,0,0,0,0,2.9,25.1,Winter,489.5
+C0247,Mumbai,Apartment,5,1751,11.9,2,3.8,7,15,12,Yes,3.4,2.8,Yes,1.1,2,3.8,3,1.4,26.5,Monsoon,582.1
+C0248,Nashik,Independent House,3,917,13.1,1,6.5,5,10,8,Yes,2.5,1.9,Yes,1.9,0,0,3,2.2,35.2,Summer,436.8
+C0249,Nashik,Apartment,2,751,7.6,0,0,2,9,8,Yes,5.4,5.1,Yes,1.6,0,0,1,2.2,27.9,Monsoon,248.8
+C0250,Kolhapur,Apartment,2,829,8,2,7.5,4,8,7,Yes,0.6,1.2,Yes,1,1,7.6,2,2.7,30.2,Summer,616.4
+C0251,Aurangabad,Apartment,1,625,10.4,0,0,3,4,3,Yes,2.8,2.5,Yes,0.2,1,4.2,6,2.2,22.2,Winter,272.9
+C0252,Mumbai,Apartment,2,725,9.2,1,6.2,3,6,4,Yes,3.4,1.9,Yes,0.8,0,0,1,2.6,26.4,Monsoon,376.8
+C0253,Solapur,Villa,6,1478,11.3,2,5.4,5,14,10,Yes,5.7,0,Yes,1.3,1,6.5,3,3.8,30,Summer,613.7
+C0254,Pune,Apartment,3,913,12.7,1,8.6,5,10,7,Yes,4.7,2.7,Yes,1.1,2,1.7,4,0.2,31.8,Summer,477.4
+C0255,Nagpur,Apartment,2,728,15,0,0,4,8,6,Yes,3.1,3.4,Yes,2.1,2,4.1,3,1.5,26.4,Winter,309.8
+C0256,Pune,Independent House,5,1364,13.5,1,8.3,5,12,11,No,4.7,2.2,Yes,0.7,0,0,4,3,27.5,Monsoon,500.3
+C0257,Pune,Apartment,7,1600,9,1,5.7,6,15,11,Yes,3.5,3,Yes,1.1,4,4.9,1,2,31.8,Summer,572.1
+C0258,Solapur,Apartment,7,1444,10.6,1,5.2,6,12,9,Yes,5.9,3.1,No,0,3,5.5,1,2.6,20.3,Monsoon,493.9
+C0259,Pune,Apartment,1,908,9.9,1,5.4,2,9,7,Yes,4.4,3.3,Yes,1,0,0,3,1.8,36.5,Summer,426.4
+C0260,Mumbai,Apartment,7,1426,9,1,4,8,14,10,Yes,7.1,1.7,Yes,1.9,1,5.2,5,3.6,38.6,Summer,524.4
+C0261,Mumbai,Apartment,3,643,8.4,1,6.6,5,7,7,Yes,3.5,1.6,Yes,0.4,0,0,6,3.2,22.9,Winter,424.3
+C0262,Nashik,Apartment,1,400,15.7,1,4.1,2,5,4,Yes,6.2,3.6,Yes,0.2,1,1,2,2.3,26.6,Summer,343.2
+C0263,Kolhapur,Apartment,3,790,11.5,1,5.7,4,8,6,Yes,4.2,1,Yes,1,3,3.8,4,3.7,19.5,Winter,451.3
+C0264,Aurangabad,Villa,5,1421,10.9,1,7.2,6,11,10,Yes,2.7,3.1,Yes,1.2,2,4.7,2,2.3,29.3,Monsoon,554.2
+C0265,Nagpur,Apartment,1,668,12.7,1,8.7,3,7,6,Yes,8.7,6.3,Yes,1.4,1,3.9,2,2.1,30.5,Summer,501.2
+C0266,Pune,Independent House,4,1340,12.8,1,5.8,5,10,8,Yes,6.4,3.4,No,0,1,3,1,3.5,19.4,Winter,463.4
+C0267,Pune,Independent House,6,1805,14.3,2,7.2,5,15,10,Yes,4.4,0.4,No,0,0,0,3,0.6,25.7,Monsoon,694
+C0268,Solapur,Apartment,6,1528,9.6,3,7,6,12,9,Yes,5.4,3.8,Yes,0.2,1,4.4,8,2.2,23.1,Winter,898.4
+C0269,Kolhapur,Independent House,3,1330,12.5,1,4.7,4,12,8,Yes,2.1,4.9,Yes,1.1,0,0,6,2.4,23.3,Winter,442.9
+C0270,Mumbai,Apartment,7,1145,9.2,1,9.7,7,7,6,Yes,2.1,2.1,Yes,0.5,2,6,2,1.8,22,Winter,567.5
+C0271,Nagpur,Villa,4,1294,11,2,4.3,6,12,10,Yes,6,3,Yes,1.2,1,6.8,2,1.3,33.1,Summer,567.9
+C0272,Nashik,Apartment,1,560,11.6,0,0,3,6,5,Yes,4,2,Yes,0.4,1,6.3,1,1.9,35.1,Summer,259.6
+C0273,Mumbai,Apartment,4,1189,11.9,2,8.4,4,13,10,Yes,3.7,2.7,Yes,1.5,0,0,2,0.5,23.2,Monsoon,700.8
+C0274,Kolhapur,Apartment,4,831,11.8,1,8.4,4,8,6,Yes,3.5,2.4,Yes,2.4,3,3.3,2,3.6,34.4,Summer,565.8
+C0275,Aurangabad,Villa,7,1105,13.5,1,5.5,6,10,7,Yes,4.3,4.2,No,0,1,1.9,5,3.6,26.9,Monsoon,510
+C0276,Nashik,Apartment,1,658,10,1,7.5,4,8,8,Yes,3.5,6.3,Yes,0.3,0,0,2,2.1,35.4,Summer,429.8
+C0277,Aurangabad,Independent House,5,1229,12,1,5.1,8,11,8,Yes,0.3,3.6,Yes,2,2,6.2,6,1.7,22,Monsoon,475.6
+C0278,Solapur,Apartment,7,1987,9.6,2,4.5,6,17,11,Yes,6.5,0.9,No,0,1,5.1,2,0.5,30.7,Summer,580.7
+C0279,Solapur,Independent House,4,1026,18,1,3.1,5,11,10,No,3.8,7.8,Yes,0.3,0,0,3,1.3,25.1,Winter,312.2
+C0280,Pune,Apartment,4,1264,9.2,2,6.9,6,11,9,Yes,7.3,4.5,Yes,1.1,0,0,5,3.5,26.5,Winter,674.1
+C0281,Aurangabad,Independent House,5,1045,9.7,2,7.2,5,11,10,Yes,0.8,4.8,Yes,1.5,2,4.3,6,2,30.7,Summer,734.8
+C0282,Kolhapur,Apartment,4,1514,13.7,2,4.4,6,11,7,Yes,0.8,3.4,Yes,1,1,5.7,2,1.5,24.3,Winter,510
+C0283,Nagpur,Apartment,4,1081,10.4,2,6,5,12,10,Yes,3.5,3.9,Yes,0.2,1,2.8,2,2,37,Summer,603.2
+C0284,Nashik,Apartment,4,1289,13.7,2,10,3,9,7,Yes,5.8,2.9,Yes,0.2,1,1.7,3,1.5,28.2,Monsoon,773.8
+C0285,Mumbai,Apartment,6,1344,11.9,1,7.8,5,14,12,Yes,1.8,5,Yes,0.3,1,1.6,3,0.4,33.1,Summer,529.8
+C0286,Kolhapur,Independent House,7,972,10.5,1,3.7,7,6,4,Yes,1.7,2.7,Yes,0.5,0,0,2,1.7,27.1,Winter,397.1
+C0287,Kolhapur,Apartment,2,980,9.6,1,7.5,5,12,9,Yes,4.7,4.3,No,0,3,1.5,1,1,30.4,Monsoon,461.1
+C0288,Solapur,Independent House,7,1544,9.5,2,3.7,6,14,12,Yes,3.4,5.1,Yes,2,1,6.9,2,2.4,26.5,Summer,551.8
+C0289,Aurangabad,Apartment,5,1201,10.5,1,1,5,9,7,Yes,5,5.6,Yes,0.2,0,0,4,2.9,20.9,Winter,336.7
+C0290,Pune,Apartment,4,1612,11.1,1,5.5,5,17,14,Yes,3.5,5.3,No,0,0,0,1,1.3,37.4,Summer,485.7
+C0291,Pune,Apartment,7,1157,9.4,1,8.6,5,9,6,Yes,4.7,1.8,Yes,0.4,1,3.8,3,2.2,22.9,Winter,542.7
+C0292,Nashik,Apartment,6,2079,11.2,2,8.3,6,17,12,Yes,6.5,6.2,Yes,1.4,1,6.2,6,2,29.2,Summer,829.1
+C0293,Solapur,Independent House,5,1821,8.8,2,6.3,4,19,16,Yes,1.8,4.6,Yes,0.6,1,6.7,5,1.3,17.3,Winter,646.5
+C0294,Kolhapur,Apartment,3,1066,13.4,1,4.4,5,10,9,No,6.1,4,Yes,0.5,1,2.1,7,0,30.1,Monsoon,364.9
+C0295,Nagpur,Apartment,7,1691,13.9,2,6.5,6,11,10,Yes,0.9,4.2,Yes,0.2,1,2.5,6,1,20.1,Winter,674.4
+C0296,Solapur,Independent House,3,822,9.7,1,5,3,7,6,No,5.1,3.2,Yes,2.2,2,3.3,3,1.2,22.1,Winter,355.2
+C0297,Nashik,Villa,4,1056,9.6,2,4.5,5,9,7,Yes,6.6,2.7,No,0,0,0,4,2.1,20.2,Winter,508.2
+C0298,Nashik,Apartment,6,1244,11.9,2,7.6,7,11,10,Yes,3.1,2.9,Yes,1.3,1,0.5,1,2.2,28.7,Monsoon,692
+C0299,Solapur,Apartment,6,1599,14.7,1,4.4,7,14,10,No,5.2,5.7,Yes,2.2,0,0,2,3.2,19.8,Winter,446.6
+C0300,Nashik,Independent House,7,2224,15.2,2,7.8,7,19,15,Yes,3.1,3.6,Yes,0.8,1,2.6,2,1,19.8,Winter,756.7
+C0301,Solapur,Apartment,5,1837,8,2,4.3,6,13,10,Yes,5.1,4,Yes,1.2,0,0,7,1.2,35.2,Summer,583.2
+C0302,Mumbai,Apartment,5,1483,14,1,9.6,6,12,8,Yes,0,3.6,Yes,1.7,1,4.9,7,1.4,24.1,Winter,571.5
+C0303,Solapur,Apartment,6,1205,11.3,1,2.2,7,11,10,Yes,4.3,2.4,Yes,0.7,0,0,2,1.8,29.6,Monsoon,353.5
+C0304,Aurangabad,Independent House,5,1443,11.4,2,3.6,5,11,9,Yes,4.7,0,Yes,1.1,1,5.2,5,2.2,33.8,Summer,514.6
+C0305,Solapur,Independent House,6,1807,12.8,2,5.2,7,17,14,Yes,6.4,4.8,Yes,1,3,2,4,2.4,29.2,Monsoon,644.4
+C0306,Nashik,Apartment,7,1897,10.3,2,1.5,6,15,12,Yes,5.7,4.6,No,0,0,0,5,0.1,29.3,Monsoon,438.4
+C0307,Aurangabad,Apartment,2,1019,14.2,0,0,4,10,8,Yes,3.7,3.5,No,0,1,4.3,2,3.2,25.2,Monsoon,251.1
+C0308,Nashik,Apartment,6,1439,15.1,1,1.5,7,12,8,Yes,4.5,1.6,Yes,0.7,2,2.9,2,2.5,28.8,Monsoon,392.8
+C0309,Pune,Independent House,3,1339,15.2,2,4.9,6,10,9,Yes,1.4,6.6,No,0,1,7.2,0,2.9,31.3,Summer,559.5
+C0310,Pune,Apartment,5,1360,6.9,2,5,6,12,9,Yes,7,2.9,Yes,2,1,4.2,3,0,25.6,Monsoon,600.7
+C0311,Aurangabad,Apartment,6,1372,10.9,2,6.2,7,10,9,No,5.2,3.9,No,0,1,2.9,3,2.8,25,Winter,616
+C0312,Mumbai,Independent House,6,1424,6.7,2,5.1,5,12,9,Yes,0.7,2.3,Yes,1.5,1,4.6,3,1,27.4,Monsoon,554.2
+C0313,Pune,Apartment,7,1366,9.6,1,6.1,8,12,9,Yes,4.4,1.2,Yes,2.8,4,2.1,5,1.5,29.3,Monsoon,545.9
+C0314,Solapur,Independent House,5,1497,5.5,2,4.6,7,11,9,Yes,4.6,4.5,No,0,2,3.6,4,3.4,36.2,Summer,578.5
+C0315,Nashik,Apartment,2,485,12.6,0,0,5,6,5,Yes,2.6,0.9,Yes,1.7,1,8.1,3,2.7,27.1,Summer,286.1
+C0316,Pune,Apartment,7,1449,12,1,6.7,7,13,10,Yes,4.2,3.9,No,0,1,0.5,3,1.3,24.8,Monsoon,498.4
+C0317,Pune,Apartment,2,816,10.4,0,0,3,9,8,Yes,2.4,3.9,Yes,1.4,1,2.9,4,2.8,32.9,Summer,291.7
+C0318,Mumbai,Independent House,7,1630,9.5,2,6.6,6,14,13,Yes,1.5,1.6,Yes,1.3,0,0,4,2.4,23.3,Winter,640
+C0319,Aurangabad,Independent House,5,1547,12.3,2,5.1,5,12,11,Yes,2.9,1.3,Yes,0.7,0,0,2,1.6,23.5,Monsoon,521.3
+C0320,Aurangabad,Independent House,1,888,9,2,2.5,3,8,7,Yes,4.3,2.2,No,0,0,0,3,2.5,27.8,Monsoon,316.8
+C0321,Kolhapur,Apartment,5,1206,8.8,1,7.3,4,12,10,Yes,5.7,2.4,Yes,1.2,1,7.4,6,1.6,30.5,Monsoon,494.6
+C0322,Mumbai,Independent House,5,1677,8.5,1,3.7,5,13,9,Yes,4.1,0.9,Yes,0.7,0,0,3,2.4,18.5,Winter,386.8
+C0323,Solapur,Apartment,2,836,11,1,7.3,3,6,5,Yes,5.7,1.6,Yes,0.9,4,4.8,1,2.4,34.7,Summer,548.5
+C0324,Aurangabad,Apartment,2,646,10,1,6.1,3,6,5,Yes,5.2,3.6,No,0,0,0,3,2.5,30.2,Monsoon,385.7
+C0325,Nashik,Independent House,5,1310,10.5,1,5.3,5,11,10,Yes,2.1,6.9,Yes,0.3,0,0,3,3.9,27.2,Winter,439.7
+C0326,Mumbai,Apartment,5,1411,12.8,2,1.7,4,12,8,Yes,5.2,5.2,Yes,1.1,2,5.9,2,2.9,27,Winter,456.4
+C0327,Pune,Apartment,5,1260,13.9,1,8.6,4,11,9,Yes,5.2,3.8,No,0,0,0,4,3,31.1,Monsoon,524.7
+C0328,Nashik,Apartment,2,791,15.1,1,4.8,3,8,7,Yes,7.1,5.4,No,0,1,2.9,3,1.5,26.1,Monsoon,371.4
+C0329,Nashik,Apartment,5,1682,11.7,2,6.8,8,16,12,Yes,4.7,5.5,Yes,2.2,2,3.8,1,0.5,24.4,Summer,708.6
+C0330,Pune,Apartment,5,1202,12.4,1,5.3,7,12,9,Yes,1.8,3,Yes,0.2,1,5.1,1,1.8,33.7,Summer,453.6
+C0331,Mumbai,Independent House,4,1354,12,1,5,5,12,10,Yes,3,3.9,Yes,2.5,2,5.7,2,1.5,30,Monsoon,524.5
+C0332,Pune,Apartment,1,649,7.3,1,5.9,3,5,4,No,0.7,5.2,Yes,1.2,2,4.5,4,2.6,29.6,Summer,374.4
+C0333,Kolhapur,Independent House,3,774,10.6,1,5.6,5,6,5,No,4.9,5.4,Yes,0.3,0,0,2,1.8,23.8,Winter,367.7
+C0334,Nashik,Independent House,1,560,10.6,0,0,3,7,5,Yes,7,5.4,Yes,1.8,0,0,4,3.3,23.4,Monsoon,239.4
+C0335,Nagpur,Apartment,4,1609,10.2,2,5.4,4,13,11,Yes,0,1.8,Yes,1.5,0,0,2,0.3,34.2,Summer,576.6
+C0336,Nagpur,Apartment,3,1198,11.4,1,6.4,3,9,7,Yes,7.1,5.5,Yes,2.2,2,3.2,5,1.7,27.9,Summer,487.7
+C0337,Solapur,Apartment,7,2191,11,1,6.5,7,22,15,Yes,4.9,6.7,Yes,0.2,0,0,5,2.4,22.5,Monsoon,532.9
+C0338,Aurangabad,Independent House,5,947,9,2,5.6,7,11,9,Yes,2.1,6,Yes,0.4,1,3.8,1,1,33.9,Summer,579.1
+C0339,Pune,Apartment,4,1153,11.1,1,6.7,5,10,9,Yes,4.5,1.7,Yes,1.7,0,0,4,2.9,22.4,Winter,452.4
+C0340,Pune,Independent House,7,1569,9.9,2,4.7,6,12,10,Yes,2.1,1.2,No,0,0,0,1,2.9,27.9,Winter,517.7
+C0341,Solapur,Apartment,5,1279,5,2,9.9,4,12,10,Yes,4.8,4.3,Yes,1.6,0,0,4,1.6,21.8,Winter,794.1
+C0342,Solapur,Independent House,2,1064,8,3,8.5,3,9,7,Yes,4.1,6,Yes,1.7,1,1.7,5,4.6,28.3,Winter,928.4
+C0343,Solapur,Apartment,6,1788,11.7,2,7,5,17,14,Yes,4.6,3.9,Yes,0.7,2,1.6,2,0.9,21.7,Winter,703.4
+C0344,Nashik,Apartment,4,1346,14.2,1,1.6,4,11,8,Yes,2.3,3.1,Yes,1.1,0,0,2,0.7,30.2,Monsoon,326.6
+C0345,Kolhapur,Villa,2,752,5.4,0,0,5,10,9,Yes,2.6,3.3,No,0,2,3.3,4,1.5,22.1,Monsoon,226.1
+C0346,Pune,Independent House,4,1309,9.3,2,4.8,5,11,10,Yes,4.9,5.2,Yes,1.6,0,0,4,2.2,25.3,Winter,538.7
+C0347,Nashik,Apartment,4,930,12.6,1,3.5,4,12,10,Yes,3.1,3,Yes,1.9,0,0,4,0.4,31.9,Summer,363.4
+C0348,Solapur,Independent House,2,1006,13.7,1,4.8,4,10,8,Yes,4.3,4.3,Yes,1.3,1,3.4,1,2.6,32.4,Summer,418.6
+C0349,Pune,Apartment,3,899,10.4,1,3.8,6,10,9,Yes,4.8,3.3,No,0,1,1.9,4,4.5,26.8,Winter,376.9
+C0350,Nashik,Independent House,1,637,9.8,1,6.5,3,6,5,Yes,3.6,2,Yes,1.2,1,2.9,3,0.6,20.3,Winter,401.1
+C0351,Kolhapur,Independent House,5,1461,14.5,1,8.7,3,11,8,No,6.1,1.9,Yes,2.1,1,2.1,4,2.2,28.2,Monsoon,486.7
+C0352,Nashik,Apartment,4,1044,13.5,1,7.2,5,6,4,No,3.7,4.4,Yes,0.6,0,0,3,3,25.6,Monsoon,458.7
+C0353,Kolhapur,Apartment,5,1335,13.6,2,10,6,14,12,Yes,3.6,0,Yes,2.2,2,6.4,2,2.8,26,Monsoon,853.4
+C0354,Solapur,Apartment,6,1727,10.3,2,2.4,6,15,14,Yes,2.9,4.3,Yes,0.7,1,2.3,4,4.2,25.4,Monsoon,507.1
+C0355,Kolhapur,Apartment,2,726,14.3,1,4.5,3,5,3,Yes,5.9,3.2,Yes,1.2,1,4.9,6,1.5,28.7,Monsoon,402.8
+C0356,Pune,Independent House,5,1238,6.6,1,3.6,5,13,9,Yes,2.7,5.1,Yes,0.4,0,0,4,4,22.2,Winter,412.9
+C0357,Solapur,Apartment,2,810,14.3,1,8,5,9,7,Yes,6.3,4.5,Yes,1.6,3,6.9,4,1.9,29.4,Monsoon,577.1
+C0358,Pune,Apartment,5,1400,11.3,1,5.1,4,14,12,Yes,4.3,3.6,Yes,1.3,1,8.7,0,1.5,37.2,Summer,489.1
+C0359,Nagpur,Independent House,1,586,11.8,1,5.9,2,4,3,Yes,8.8,1.7,Yes,1.7,3,5.5,0,3.9,25.3,Winter,421.7
+C0360,Mumbai,Villa,1,679,9.1,0,0,2,9,7,Yes,2.8,1.8,Yes,0.2,1,3,5,1.6,25.3,Monsoon,211.7
+C0361,Kolhapur,Apartment,1,622,7,1,2.6,4,7,6,Yes,6.3,2.4,Yes,1.3,0,0,5,3.1,27.1,Winter,292.7
+C0362,Mumbai,Apartment,1,672,11.8,1,4.3,4,9,7,Yes,4.9,5,Yes,1.5,1,4.5,3,1.5,33.7,Monsoon,399.7
+C0363,Mumbai,Apartment,1,426,12.9,1,7.5,2,6,4,Yes,3.1,6.5,No,0,0,0,4,0.7,21.9,Winter,403.2
+C0364,Kolhapur,Apartment,1,469,13.3,0,0,3,5,3,Yes,4.9,4.1,Yes,1.6,0,0,4,0.7,29.2,Summer,240.2
+C0365,Solapur,Villa,2,899,13,1,2.1,4,10,8,Yes,4.9,2.5,Yes,0.2,0,0,3,2.7,28.5,Summer,333.6
+C0366,Nagpur,Apartment,4,1148,12.4,1,3.7,6,12,9,Yes,3.4,2.7,Yes,1.1,0,0,1,0.9,28.4,Monsoon,390.4
+C0367,Pune,Independent House,5,1773,9.2,3,4.9,7,17,16,Yes,4.8,2.8,Yes,2.2,0,0,5,1.8,27.3,Monsoon,702.3
+C0368,Nashik,Apartment,1,741,13.4,1,5.8,2,6,5,Yes,6.1,5.3,Yes,1.1,1,1.7,1,1.4,34.5,Summer,426.5
+C0369,Pune,Independent House,2,881,8.9,1,5.4,4,8,5,Yes,4.9,2.7,Yes,0.7,0,0,3,1.1,27.6,Monsoon,391.8
+C0370,Nashik,Independent House,2,651,14.3,1,4.3,4,4,3,Yes,3.2,3.4,Yes,1.2,0,0,3,1.2,26.5,Winter,309.9
+C0371,Pune,Independent House,2,1014,11.3,1,7.4,3,8,6,Yes,3.1,5.8,No,0,1,5,4,2.2,35.5,Summer,463.7
+C0372,Kolhapur,Apartment,4,952,11.4,1,5.2,5,10,7,Yes,3.8,2.5,Yes,1.8,0,0,6,0,21.3,Winter,393.2
+C0373,Nagpur,Apartment,5,1147,13.7,1,5.9,6,11,10,Yes,6,4.4,Yes,1.3,0,0,1,2.8,30.8,Winter,464.5
+C0374,Nashik,Apartment,4,668,14,1,4.4,5,5,4,Yes,2.6,5,No,0,0,0,2,0.7,20,Winter,375.5
+C0375,Aurangabad,Villa,3,1059,13.4,1,8.5,3,12,9,Yes,4.7,3.6,Yes,1.3,1,3.6,3,0.8,22.4,Winter,483.4
+C0376,Solapur,Independent House,7,1381,9.4,1,4.7,6,17,12,Yes,1.2,6.8,No,0,1,0.5,1,0.6,30.4,Monsoon,428.5
+C0377,Pune,Independent House,2,560,13.4,0,0,4,4,3,Yes,5.1,6.3,Yes,0.2,2,3.7,4,2.3,26.6,Monsoon,293
+C0378,Pune,Independent House,3,846,9.5,1,7.6,3,8,6,Yes,5.4,3.9,Yes,1.5,0,0,2,3.5,24.8,Monsoon,449.9
+C0379,Nashik,Independent House,6,1923,13.5,2,6.1,7,15,12,Yes,7.6,2.1,Yes,0.2,0,0,3,1.9,30.6,Summer,686.8
+C0380,Solapur,Apartment,1,693,7.9,0,0,3,7,5,Yes,5.7,2.2,No,0,1,3.1,3,2.4,30.7,Summer,241
+C0381,Solapur,Villa,7,1696,11.3,2,1.6,8,15,14,Yes,3.3,3.9,No,0,1,6.8,4,2.5,35.1,Summer,540.5
+C0382,Kolhapur,Apartment,1,631,9.4,1,6.9,3,5,3,Yes,1.2,1.6,Yes,1.7,0,0,2,2.7,28.2,Summer,367.2
+C0383,Aurangabad,Apartment,4,1412,13.7,1,5.6,4,12,10,Yes,4.9,4,Yes,0.2,0,0,3,1,24.6,Winter,403
+C0384,Kolhapur,Apartment,7,1830,14.3,1,6.6,7,16,15,Yes,3.4,6.4,Yes,1.5,0,0,6,3.6,26.7,Winter,603.3
+C0385,Kolhapur,Apartment,5,934,12,1,5.9,4,9,7,Yes,4.6,3.6,Yes,0.5,0,0,1,1.7,23.3,Winter,476.5
+C0386,Kolhapur,Apartment,3,1068,11.9,1,4.4,4,12,8,Yes,2.7,3.5,No,0,0,0,2,2.3,36.7,Summer,388.1
+C0387,Kolhapur,Independent House,5,1210,13.3,2,7.3,4,11,8,Yes,3.7,5,Yes,1.2,1,7.3,4,1.9,30.6,Summer,714.6
+C0388,Kolhapur,Apartment,4,1504,14.3,2,5.9,5,12,9,Yes,0.9,4.4,Yes,1.1,2,4.9,3,1.6,21.1,Winter,637.9
+C0389,Nagpur,Independent House,1,722,11.6,0,0,2,8,8,Yes,2.1,1.5,No,0,1,0.5,2,2.9,28.4,Monsoon,193.9
+C0390,Solapur,Apartment,7,2043,10.3,2,8.1,6,18,17,Yes,1.9,2.7,No,0,0,0,2,2.6,27.7,Winter,708.3
+C0391,Kolhapur,Apartment,5,1211,13.1,1,2.6,7,11,10,Yes,5.6,6.7,Yes,1.2,1,1.3,2,0,18.5,Winter,400.1
+C0392,Solapur,Apartment,5,1098,6.9,1,7.3,4,11,10,Yes,2.5,4.1,Yes,1.6,1,1.3,1,2.4,26,Monsoon,466.6
+C0393,Solapur,Apartment,1,542,13.8,0,0,2,5,4,Yes,6.5,1.8,No,0,2,3.2,3,4.1,32.4,Summer,243.5
+C0394,Mumbai,Independent House,7,1419,9.7,1,3.3,6,12,11,Yes,2.5,3.2,Yes,1.3,1,5.6,3,2.2,32,Summer,435.6
+C0395,Nagpur,Apartment,3,759,10.9,2,5.3,4,4,4,Yes,7.8,0.5,Yes,1.4,0,0,5,1.5,36.4,Summer,524.8
+C0396,Kolhapur,Independent House,1,901,13.8,1,5.1,2,8,6,Yes,0.5,0.3,Yes,0.7,0,0,4,1.6,27,Monsoon,348.2
+C0397,Pune,Apartment,5,1493,10.5,1,5.2,5,10,7,Yes,4.8,5.2,No,0,1,3.4,2,1.4,21.3,Winter,441.5
+C0398,Nashik,Independent House,3,998,13.1,2,9.2,4,8,7,Yes,4.1,3.5,Yes,1.5,1,5.8,1,0.9,31.8,Summer,770
+C0399,Aurangabad,Villa,3,1177,14.3,1,3.3,5,11,8,Yes,1.8,4.4,Yes,1,0,0,3,1.8,37.4,Summer,404.8
+C0400,Pune,Independent House,1,588,11.8,1,4.9,3,4,3,Yes,3,5.5,Yes,1.2,0,0,5,1.8,23.7,Monsoon,379.8
+C0401,Nagpur,Apartment,5,1241,12.3,1,8.5,4,11,10,Yes,3.5,4.1,No,0,0,0,6,2.6,36.2,Summer,549.2
+C0402,Nashik,Apartment,4,1338,11.2,1,4.9,5,12,11,Yes,4.4,4.7,Yes,1.5,1,3.2,3,1.5,26.2,Winter,454.2
+C0403,Nagpur,Apartment,5,1473,11.8,2,3.6,6,12,8,Yes,2.3,3.9,No,0,1,7.5,5,4,29.2,Summer,576.3
+C0404,Solapur,Independent House,2,897,8.7,1,6,3,8,6,Yes,4.8,5.7,Yes,0.2,0,0,7,1.1,20.5,Winter,413.4
+C0405,Nashik,Apartment,7,1571,10.8,2,7.1,8,14,13,Yes,4.2,6.5,No,0,0,0,1,2.1,20,Winter,700.7
+C0406,Solapur,Apartment,6,1983,8.3,2,4.7,7,17,14,Yes,5.4,3.8,No,0,0,0,3,1.3,21.5,Winter,569.1
+C0407,Pune,Independent House,4,1355,9.3,2,6.6,5,12,9,Yes,2.4,3.8,No,0,4,1.3,5,1.5,33.8,Summer,632.9
+C0408,Pune,Apartment,3,1030,6.5,2,2.7,4,9,8,Yes,3.3,4,No,0,2,2.5,3,1.7,30,Summer,394.3
+C0409,Nashik,Independent House,4,1458,12.2,3,2.9,6,14,13,Yes,6.6,3.3,Yes,1.3,0,0,2,2.2,22.7,Winter,531.9
+C0410,Nashik,Apartment,7,1284,15.7,2,4.6,7,9,8,Yes,2.4,2.8,Yes,2,1,3.1,7,2.8,23.2,Winter,604
+C0411,Kolhapur,Apartment,3,1183,10.4,1,6.7,4,12,9,Yes,1.5,5.3,No,0,0,0,2,1.5,22.3,Winter,456
+C0412,Nagpur,Independent House,7,2017,13.9,2,7,7,18,13,Yes,2.9,2.8,No,0,2,1.1,5,0.5,27.4,Monsoon,715.1
+C0413,Kolhapur,Apartment,3,1013,14.3,1,3.1,6,10,9,Yes,0.8,2.7,Yes,1.6,1,3.9,3,3.4,33,Summer,401.8
+C0414,Nagpur,Independent House,4,976,8.5,0,0,5,9,6,Yes,7,5,Yes,1.4,1,7,3,1,18.6,Winter,336.2
+C0415,Kolhapur,Apartment,3,969,9,1,5.8,4,6,5,Yes,3.5,5.2,Yes,1,3,4.4,4,1.8,29.9,Summer,476.5
+C0416,Solapur,Apartment,3,1479,14,1,3.7,3,15,10,Yes,3.5,7.5,Yes,1.3,0,0,3,2.1,38.8,Summer,436
+C0417,Nashik,Independent House,2,992,11.3,1,2.8,3,10,8,Yes,5.3,5.6,Yes,0.2,3,4.8,4,1.9,34,Summer,415
+C0418,Pune,Independent House,5,1274,8.3,2,6,4,10,8,Yes,2.7,4.9,No,0,1,0.9,6,0.6,25.7,Winter,585.6
+C0419,Nagpur,Independent House,5,1420,9.9,1,8.1,5,14,10,Yes,3.6,5.2,Yes,1.5,2,5.2,1,2.9,30.5,Summer,595
+C0420,Nagpur,Apartment,6,1525,12.5,1,5.6,4,14,13,Yes,2.6,3.2,Yes,0.7,0,0,3,0,24.1,Monsoon,417.4
+C0421,Pune,Independent House,6,1606,9.5,1,3.6,7,13,8,Yes,0.8,4.5,Yes,0.9,1,3.2,1,3,28,Monsoon,410.6
+C0422,Kolhapur,Apartment,2,1183,5,2,1.8,4,12,11,Yes,4.1,4.5,Yes,0.8,0,0,2,3.2,33.1,Summer,358.7
+C0423,Nagpur,Apartment,6,1509,10.7,1,8.6,6,12,11,Yes,5.8,2.6,Yes,0.9,0,0,5,2.9,23.8,Winter,570.3
+C0424,Aurangabad,Villa,7,1433,10.9,1,7.6,7,15,11,Yes,4.1,3.4,Yes,0.6,0,0,6,1.7,30.6,Summer,557.7
+C0425,Solapur,Apartment,4,1047,11.5,0,0,5,10,9,Yes,5.7,5.1,Yes,0.7,0,0,3,2.1,33.5,Summer,316.8
+C0426,Nashik,Villa,1,667,14.6,1,8.5,4,8,6,Yes,2,3.5,Yes,1.6,3,3.4,1,1.3,28.1,Monsoon,513.5
+C0427,Pune,Apartment,7,1111,11.6,1,5.9,6,11,10,Yes,2.6,4.5,Yes,0.2,0,0,7,2.1,24.3,Monsoon,461.8
+C0428,Nashik,Apartment,1,400,12.1,1,4.4,3,5,4,Yes,1.7,5,Yes,1.3,3,3.4,4,2.6,31,Summer,429.3
+C0429,Aurangabad,Apartment,1,909,14.1,0,0,3,9,7,Yes,4.7,4.9,Yes,1.6,2,3.7,4,0.9,21.5,Winter,273.3
+C0430,Nagpur,Independent House,2,541,11.5,1,3.8,5,5,4,Yes,3.4,6.4,Yes,0.3,0,0,0,1.9,21.6,Winter,297.1
+C0431,Nagpur,Independent House,7,1745,16.8,1,3.5,7,15,13,Yes,3.4,2.5,No,0,3,6.1,2,1.5,23.9,Monsoon,513.1
+C0432,Aurangabad,Independent House,2,880,8.3,1,7,4,10,9,No,5.2,6.3,Yes,0.6,0,0,3,3.2,24.2,Monsoon,380.3
+C0433,Pune,Independent House,3,1124,9.2,1,7.2,3,11,8,Yes,3.1,4.3,Yes,2,2,4.2,2,1.1,31.2,Summer,487
+C0434,Solapur,Independent House,1,726,13,1,3,2,8,7,Yes,5.9,4.9,Yes,1.1,1,4.1,3,2.6,28.1,Winter,346.5
+C0435,Mumbai,Independent House,4,835,14.6,1,3,4,5,4,Yes,4.4,4.7,No,0,0,0,0,1.9,23.4,Monsoon,342.4
+C0436,Pune,Apartment,6,1383,11,2,4.6,4,12,11,Yes,3.3,4.6,Yes,2.1,1,4,3,1.9,32,Summer,608.5
+C0437,Mumbai,Apartment,4,1248,9,2,4.1,5,11,7,Yes,1.2,2.4,Yes,1.4,2,4.2,3,2.7,20.6,Winter,490.1
+C0438,Aurangabad,Apartment,6,1164,15.9,1,6.5,6,9,8,Yes,5.2,4.9,Yes,2.7,3,3.5,5,1.6,27.2,Monsoon,547.9
+C0439,Kolhapur,Villa,1,769,9.5,0,0,3,9,6,Yes,4.5,1.1,Yes,0.2,1,2.8,2,2.1,29.5,Monsoon,288.2
+C0440,Mumbai,Villa,1,400,12.3,1,7.8,3,3,2,Yes,4.6,7.1,Yes,2.2,0,0,0,3.1,31.9,Summer,449.2
+C0441,Solapur,Apartment,1,544,14.8,0,0,3,7,6,Yes,4.7,4.1,Yes,1,1,0.5,1,1.2,29.3,Summer,213.8
+C0442,Kolhapur,Independent House,2,669,10.4,1,4.2,5,9,8,No,3,5.5,No,0,1,5.4,3,2.3,27.7,Winter,324.4
+C0443,Mumbai,Villa,7,1087,9.9,1,1.7,7,10,9,No,3.7,4.7,Yes,0.9,2,5,2,2.9,22.3,Winter,361.7
+C0444,Aurangabad,Apartment,6,1816,10.1,2,5.9,7,15,12,Yes,3.2,3.6,Yes,0.2,1,8,5,2.5,34.9,Summer,689.8
+C0445,Kolhapur,Independent House,7,987,13.8,1,2.1,7,11,10,Yes,6.3,2.6,Yes,1.6,0,0,3,3.3,26.6,Monsoon,422.3
+C0446,Aurangabad,Villa,2,505,14.2,0,0,4,4,3,Yes,3.5,2.3,No,0,0,0,3,1.9,26.8,Monsoon,255.1
+C0447,Mumbai,Apartment,2,1002,11.6,1,4.1,2,10,9,Yes,2.9,4.8,Yes,0.8,1,6.3,5,2.7,30.9,Summer,390.8
+C0448,Aurangabad,Independent House,5,1525,16.2,2,4.5,4,12,10,Yes,6.4,4.7,Yes,0.8,2,4.7,2,3.1,26.3,Monsoon,589.4
+C0449,Solapur,Apartment,4,955,11.6,1,2.9,7,7,6,Yes,6.2,4.4,Yes,1.9,1,7.3,2,0.3,27.2,Monsoon,407.8
+C0450,Mumbai,Villa,4,1203,14.7,1,4,7,11,8,Yes,4.4,3.3,Yes,1.1,2,7,2,1.6,36.8,Summer,475.3
+C0451,Mumbai,Villa,3,842,10.4,0,0,2,8,7,Yes,3.8,4.2,No,0,1,0.5,2,2.4,32.9,Summer,280
+C0452,Mumbai,Villa,2,929,17.3,2,7.8,3,6,4,Yes,3.3,2.8,No,0,0,0,3,2.9,33.6,Summer,706.3
+C0453,Pune,Apartment,6,1277,15.4,1,8.6,6,13,12,Yes,3.9,2.3,Yes,0.2,1,4.5,2,2.2,23.2,Monsoon,544.1
+C0454,Pune,Independent House,5,1055,11.2,2,5.5,6,9,8,Yes,2.4,3,Yes,1.6,1,4,5,3.4,25.4,Monsoon,611.8
+C0455,Pune,Independent House,5,1177,15.1,1,6,7,11,10,Yes,4.9,3.1,Yes,0.4,2,3.1,4,1.5,34.5,Summer,499
+C0456,Solapur,Apartment,7,1144,15,1,7.8,6,13,9,Yes,7,6,Yes,0.8,2,7.1,1,0.8,33.2,Monsoon,622.6
+C0457,Kolhapur,Independent House,4,1650,15.4,2,2.6,4,15,11,Yes,5,1.2,Yes,2.4,1,3.9,3,2.8,24.3,Monsoon,455.6
+C0458,Aurangabad,Apartment,2,610,5.3,2,7.1,3,8,7,Yes,2,3.4,Yes,1.6,0,0,3,1.9,25.4,Monsoon,556.8
+C0459,Nagpur,Independent House,3,1040,13.3,1,8.1,3,8,6,Yes,4.8,4.6,Yes,0.4,0,0,3,1.2,30.7,Summer,448.3
+C0460,Mumbai,Apartment,2,712,12.9,1,3.7,1,9,7,Yes,4.4,6.9,No,0,2,8.1,1,3.7,21.9,Monsoon,412.1
+C0461,Aurangabad,Apartment,7,1993,12.7,3,8.3,7,16,15,Yes,4.8,2.5,Yes,0.7,0,0,3,2.7,27.7,Monsoon,1015.9
+C0462,Mumbai,Apartment,1,513,12,0,0,4,5,4,Yes,2.5,1.6,No,0,0,0,2,2.7,28.5,Monsoon,225.7
+C0463,Solapur,Independent House,2,935,12.1,1,7.1,3,7,5,Yes,4,4.7,No,0,2,6.1,6,3.6,26.6,Winter,503.2
+C0464,Mumbai,Apartment,7,1153,14.7,2,6.7,8,11,10,Yes,5.6,3.8,Yes,0.5,1,3.5,4,1.6,34,Summer,706.7
+C0465,Pune,Independent House,1,422,12.8,0,0,3,6,4,Yes,2.1,3.1,Yes,0.5,0,0,3,3.4,24.6,Winter,213.5
+C0466,Nagpur,Apartment,1,741,12,1,7.6,2,8,7,Yes,3.2,4.2,No,0,0,0,1,2.4,23.3,Winter,383.3
+C0467,Nashik,Apartment,3,1044,14.3,2,3.4,4,7,5,Yes,3.5,5,No,0,0,0,5,1.4,26.9,Monsoon,460.8
+C0468,Mumbai,Apartment,6,1152,12.5,2,6.2,5,11,9,Yes,5.8,4.8,Yes,1.5,1,2.7,5,2,22.2,Winter,675.8
+C0469,Aurangabad,Independent House,4,600,12.8,1,6.4,4,7,5,Yes,6.1,4,Yes,0.9,0,0,6,2.2,24.9,Monsoon,426
+C0470,Pune,Apartment,2,1202,16.2,1,1,3,12,10,Yes,0.6,5.7,Yes,0.2,0,0,5,3.1,37.5,Summer,322.1
+C0471,Nashik,Independent House,1,665,10.4,0,0,3,5,3,Yes,5.8,3.8,No,0,1,2.5,5,0.6,27.2,Winter,204.6
+C0472,Nagpur,Independent House,2,1145,7.7,1,10,2,7,6,Yes,6.1,3.6,No,0,0,0,2,0.3,23.2,Winter,471.1
+C0473,Nashik,Independent House,6,1658,11.7,3,1.3,5,15,12,Yes,6,4.7,No,0,2,4.9,4,1.2,39.4,Summer,500.6
+C0474,Pune,Apartment,4,1436,12,2,5.4,5,12,8,Yes,3,1.4,No,0,2,1,4,1.9,20.8,Monsoon,555.2
+C0475,Kolhapur,Apartment,6,1507,13.3,1,1.6,7,14,12,Yes,3.6,4.5,Yes,1.4,3,2.7,2,2.7,24.8,Winter,391.9
+C0476,Kolhapur,Independent House,4,819,11.8,1,3.7,5,8,6,Yes,1.2,3,Yes,1,0,0,3,1.5,27.6,Winter,344.1
+C0477,Nashik,Apartment,5,1711,13.4,2,1.6,5,15,11,No,0.2,1.2,Yes,1.5,1,9.1,5,2.4,36.1,Summer,417.1
+C0478,Solapur,Independent House,4,876,17.8,2,5.8,6,9,6,Yes,3.3,4.2,Yes,1.7,0,0,0,3.6,34.8,Summer,624.4
+C0479,Aurangabad,Apartment,3,947,13.5,1,7.1,3,6,5,No,4.1,2.7,Yes,2.8,1,2.6,3,0.3,34.8,Summer,434.2
+C0480,Aurangabad,Villa,6,1016,13.9,1,6.3,8,11,7,Yes,4.3,0.8,No,0,1,3,1,1.9,30.3,Monsoon,473
+C0481,Nashik,Independent House,1,638,11.2,0,0,1,6,4,Yes,5.5,2,No,0,3,2.5,3,4.4,27.1,Winter,238.2
+C0482,Mumbai,Villa,5,1762,8,2,4.3,7,17,12,Yes,9,6.4,Yes,1.4,2,3.6,1,1.3,33.6,Monsoon,611.8
+C0483,Mumbai,Apartment,3,1067,5.8,1,6,5,9,8,Yes,3.3,2.6,Yes,0.8,0,0,2,1.2,22.9,Winter,406.4
+C0484,Aurangabad,Independent House,2,939,10.2,1,3.7,6,8,6,Yes,2.1,4,Yes,0.8,2,4.2,4,2.5,18.4,Winter,361.1
+C0485,Aurangabad,Apartment,6,1400,5,2,2.8,5,12,8,Yes,5,1.7,Yes,1.5,0,0,3,1.5,26.2,Monsoon,390.8
+C0486,Kolhapur,Apartment,7,2308,12.8,2,5,5,20,19,Yes,4.4,7.1,Yes,1,1,1.7,3,3.1,30.2,Summer,642.3
+C0487,Solapur,Independent House,7,1844,10.5,2,3.6,8,15,14,Yes,3,3.6,Yes,1.3,0,0,2,4.5,31.9,Summer,565.6
+C0488,Pune,Independent House,1,817,8.2,1,6.3,1,9,7,Yes,5.6,2.3,No,0,1,2.3,2,2.1,31.4,Summer,362.9
+C0489,Mumbai,Villa,4,1457,11.8,2,8.1,5,12,8,Yes,2.5,5,Yes,2.9,2,3.6,4,4.7,34,Summer,790.9
+C0490,Aurangabad,Independent House,1,618,9.7,2,10,4,6,6,Yes,3.8,7,No,0,1,9.3,1,1.5,35.3,Summer,792.2
+C0491,Kolhapur,Apartment,7,1219,12.6,1,6.2,7,14,11,Yes,3.9,2.8,Yes,0.4,0,0,4,1.8,33.6,Summer,515.8
+C0492,Nagpur,Apartment,2,636,13.3,1,6.8,4,7,5,Yes,2.3,2.3,Yes,1.5,1,1.1,2,1,28.6,Monsoon,435.1
+C0493,Kolhapur,Independent House,5,1532,9.7,2,4.3,6,14,11,No,0.9,7.4,Yes,0.9,0,0,2,1.5,30.3,Monsoon,520.2
+C0494,Mumbai,Apartment,5,1239,10.9,2,4.4,6,9,8,Yes,4.4,3.3,No,0,1,0.5,3,1.8,36.6,Summer,518.6
+C0495,Mumbai,Apartment,6,1512,12,2,8.1,7,15,11,Yes,6.5,3.1,No,0,0,0,2,2.4,22.8,Winter,759.5
+C0496,Kolhapur,Apartment,5,1930,8,2,4.9,4,18,16,Yes,5.7,0,Yes,1.2,0,0,4,0.8,24.4,Monsoon,531.1
+C0497,Pune,Apartment,6,1951,12,2,5.6,8,15,13,Yes,5.9,3.4,No,0,1,2.1,0,1.5,22.8,Monsoon,613.1
+C0498,Nashik,Apartment,6,1716,7.9,2,7.9,6,16,13,Yes,2.6,1.2,Yes,1.5,0,0,1,1.5,23.8,Winter,701.5
+C0499,Mumbai,Apartment,6,1328,12.9,2,5,7,12,11,Yes,4.4,2.5,Yes,2.2,0,0,5,2.9,24.7,Winter,607.9
+C0500,Kolhapur,Apartment,7,1443,10.4,1,8.5,8,13,9,Yes,1.4,0.1,No,0,0,0,3,2.1,23.1,Winter,538.5
+C0501,Aurangabad,Apartment,7,2047,7.9,2,6.6,8,19,16,Yes,4.3,5.6,No,0,1,2.5,3,2.1,34.8,Summer,711
+C0502,Kolhapur,Villa,4,1302,10.1,2,6.4,6,11,9,Yes,6.5,1,Yes,1.5,1,0.5,1,2.1,32.8,Summer,635.8
+C0503,Solapur,Apartment,3,1236,10.2,0,0,4,10,8,Yes,6.6,0.2,Yes,2.1,0,0,1,0.3,33,Summer,275.4
+C0504,Nashik,Apartment,6,1774,14.2,2,6.5,6,15,11,Yes,7.7,2,Yes,0.9,0,0,4,3.6,24.2,Monsoon,718
+C0505,Nagpur,Independent House,6,2138,11.9,2,4.6,7,19,14,Yes,5.8,5.6,Yes,2.6,0,0,4,1.1,28.7,Monsoon,638.6
+C0506,Pune,Apartment,3,865,9.1,1,6.4,5,10,7,Yes,4.9,2.7,No,0,0,0,6,2.9,24,Monsoon,449.5
+C0507,Nagpur,Villa,1,772,15.6,1,5.3,2,7,5,Yes,5.6,3,Yes,2.2,0,0,1,1.8,33,Summer,381.7
+C0508,Nashik,Independent House,6,2175,13.1,3,7.4,7,17,12,Yes,5.2,4.3,Yes,1.8,0,0,2,1.4,27.7,Monsoon,925
+C0509,Nashik,Apartment,4,1036,10.7,2,5.4,4,13,11,Yes,2.5,3.2,Yes,1.2,1,4.4,8,3,29.6,Monsoon,610.4
+C0510,Nashik,Apartment,5,960,7.6,1,9.6,7,7,5,Yes,1.3,5.6,No,0,0,0,2,0.8,30.2,Summer,540.2
+C0511,Nagpur,Independent House,5,1115,10.4,1,4.9,6,10,8,Yes,5.6,3.1,No,0,0,0,4,0.9,27.2,Monsoon,428.7
+C0512,Aurangabad,Villa,2,567,10.9,3,4.4,3,7,5,Yes,7.8,3.1,No,0,0,0,5,2.2,20.7,Winter,598
+C0513,Nashik,Apartment,2,503,12.4,0,0,4,7,5,Yes,5.7,7.3,Yes,1.5,1,5.3,3,2.2,21.4,Winter,316.3
+C0514,Kolhapur,Independent House,5,1387,13,1,7.7,6,11,8,Yes,0.6,3.6,No,0,0,0,4,2.8,35.3,Summer,531.9
+C0515,Nagpur,Apartment,5,910,13.5,1,7.6,5,6,4,Yes,3.1,3.9,Yes,1.4,0,0,2,2.7,20.2,Winter,484.8
+C0516,Nashik,Villa,7,1249,7.5,1,5.8,5,10,8,No,3.6,3.1,Yes,1.2,0,0,1,1.9,37.7,Summer,423.8
+C0517,Kolhapur,Apartment,4,1247,12,1,6.2,4,12,9,Yes,0.7,0,No,0,2,5.5,2,2.1,28.3,Monsoon,413.2
+C0518,Aurangabad,Villa,3,804,11.1,1,6.2,4,9,8,Yes,1.5,5,Yes,1.4,1,4.6,1,1.9,29.6,Summer,441.2
+C0519,Solapur,Independent House,2,820,18,1,3.3,2,9,8,Yes,3.9,6.3,Yes,1.5,0,0,3,3.4,26,Winter,387.9
+C0520,Aurangabad,Independent House,7,1712,11.7,2,7.5,6,16,13,Yes,4.5,5.6,Yes,0.2,0,0,0,1,39.1,Summer,699.4
+C0521,Nashik,Apartment,7,2309,9.9,2,3,6,21,19,Yes,2.2,2.6,Yes,1.6,1,3.4,6,2,35.3,Summer,542.8
+C0522,Nagpur,Apartment,3,1317,11.8,2,3.3,3,10,7,Yes,1.4,3.2,Yes,1.7,2,3.4,3,2.8,28.4,Winter,459.1
+C0523,Mumbai,Apartment,7,1253,11.5,1,5.6,8,9,7,Yes,6.1,4.1,No,0,4,8.9,2,3.1,27.5,Monsoon,614.6
+C0524,Nashik,Apartment,4,1528,6.5,2,4.9,4,14,12,Yes,3.3,4,Yes,0.3,0,0,5,1.3,18.1,Winter,523.9
+C0525,Mumbai,Apartment,5,1264,12.5,1,7.1,6,10,7,Yes,3.6,4.7,Yes,0.5,0,0,6,1,31.3,Summer,518.1
+C0526,Kolhapur,Independent House,6,1543,10.7,2,6.4,6,11,7,Yes,3,3.8,No,0,2,5.4,2,0.8,21,Monsoon,639.5
+C0527,Solapur,Apartment,3,1032,11.4,0,0,4,11,8,Yes,2.6,2.9,No,0,1,5.8,2,1.7,22.7,Winter,273.2
+C0528,Pune,Apartment,5,964,9.3,1,3.2,7,9,7,Yes,6.3,3.7,Yes,0.4,2,1,4,2.3,27.1,Monsoon,365.8
+C0529,Aurangabad,Villa,5,1269,8.8,2,5.6,6,11,9,Yes,2.4,5.2,Yes,0.9,1,2.9,3,1.5,24.7,Winter,602.8
+C0530,Solapur,Independent House,1,566,13.7,1,5.4,3,6,5,Yes,4.3,8,Yes,0.9,2,2.8,2,2.7,17.5,Winter,400.3
+C0531,Nashik,Villa,3,588,14.3,1,5.9,3,6,5,Yes,4,2.7,Yes,0.5,0,0,3,1.9,26.4,Monsoon,371.5
+C0532,Mumbai,Villa,7,1325,12.5,2,4.6,8,14,11,Yes,0.5,3.9,Yes,0.5,1,3.8,4,2.6,32.8,Summer,585.4
+C0533,Aurangabad,Apartment,6,1701,7,2,6.5,7,12,11,Yes,4.4,2.9,Yes,1.1,1,0.8,1,2.1,28.6,Summer,631.9
+C0534,Mumbai,Apartment,3,1153,12.7,1,4.8,5,8,5,Yes,1.2,4,Yes,0.2,2,4.1,1,0.3,31.6,Summer,421.2
+C0535,Nagpur,Independent House,7,1652,7,3,6.4,6,13,11,Yes,5.1,5.2,Yes,0.2,0,0,2,0.9,23.4,Monsoon,813.7
+C0536,Mumbai,Independent House,5,1482,9.8,2,7.1,5,13,11,Yes,1.9,3.1,Yes,1.3,1,5.6,8,3.2,25.3,Winter,732
+C0537,Nagpur,Apartment,6,1592,13.7,1,4.4,8,16,14,Yes,4.9,0,Yes,2.3,0,0,6,1.1,26.9,Monsoon,454.2
+C0538,Kolhapur,Independent House,7,1790,13.1,1,4,6,17,15,Yes,3.2,5.2,Yes,1.7,0,0,3,2.9,20.8,Winter,498.5
+C0539,Aurangabad,Apartment,4,1149,12.6,1,6.5,6,11,9,Yes,2.8,3.7,Yes,2.1,1,4.4,7,2.1,24.3,Winter,499.7
+C0540,Aurangabad,Apartment,7,1590,14.8,2,2.9,6,14,10,Yes,4.4,2.9,Yes,0.2,0,0,4,1,20.8,Winter,502
+C0541,Pune,Apartment,1,564,12.9,1,7.7,3,4,3,Yes,1.4,2.5,Yes,0.2,2,0.8,3,2.7,25.4,Winter,402.8
+C0542,Nashik,Independent House,5,1103,6.5,0,0,5,11,10,Yes,3.9,4,Yes,1.2,1,3.2,5,1.5,22.5,Winter,296.6
+C0543,Nagpur,Independent House,7,1289,10.6,1,5.3,6,14,12,Yes,5.4,2.3,No,0,0,0,6,2.2,19.2,Winter,469.2
+C0544,Pune,Apartment,2,853,11.4,1,6.6,3,8,5,Yes,5.9,2.5,Yes,1.6,0,0,3,1.8,16.6,Winter,423.3
+C0545,Mumbai,Independent House,2,856,11.1,0,0,3,7,5,Yes,3.2,1.4,Yes,0.3,0,0,3,0,21.9,Winter,200.9
+C0546,Mumbai,Apartment,1,869,10,1,5.5,3,8,8,Yes,3.4,2.3,Yes,2,2,5.2,3,2.7,20.6,Winter,439.7
+C0547,Pune,Apartment,4,1485,8.9,1,7.3,6,14,9,Yes,1.3,4.6,Yes,1.1,0,0,3,2.8,22.3,Winter,464.3
+C0548,Aurangabad,Independent House,5,1325,17.5,1,4.2,6,12,8,Yes,2.6,1.2,Yes,1.7,1,1.2,2,1.5,28.9,Monsoon,442.3
+C0549,Mumbai,Villa,3,813,10.5,2,6.9,4,9,7,Yes,1.2,5.5,Yes,0.8,0,0,2,2.6,28.1,Monsoon,614.9
+C0550,Kolhapur,Independent House,1,469,17.4,0,0,4,5,5,Yes,4.8,1.5,Yes,0.2,2,3.9,2,1.1,29.1,Summer,278.1
+C0551,Kolhapur,Independent House,4,1152,8.6,1,6.5,5,10,7,Yes,5.5,3.8,Yes,1.8,1,4.6,2,1.1,32.8,Summer,506.6
+C0552,Pune,Independent House,3,1142,13.1,1,4.8,4,11,9,Yes,3.2,4.3,No,0,1,5.4,1,2.2,29.6,Monsoon,409.8
+C0553,Nagpur,Independent House,2,746,12.1,1,2.9,2,6,5,Yes,2.1,4.9,Yes,0.3,2,7.2,6,1.3,25.4,Winter,364.6
+C0554,Nagpur,Apartment,2,1021,9.2,2,6,5,12,8,Yes,4.6,4.9,Yes,0.7,0,0,4,1.9,25.5,Monsoon,565.2
+C0555,Pune,Apartment,3,1278,10.3,1,5.4,4,13,12,No,2.4,3.4,Yes,1.7,0,0,2,1.1,34.8,Summer,430.7
+C0556,Nagpur,Apartment,1,491,11.5,0,0,2,4,3,No,5.2,3.2,No,0,2,4.4,2,0.7,22.6,Winter,212.3
+C0557,Aurangabad,Apartment,2,737,9.4,1,1.3,3,6,5,Yes,7.5,4.5,No,0,1,4.9,1,2.2,21.6,Winter,302.6
+C0558,Aurangabad,Independent House,5,1659,10.9,1,5.2,7,15,14,No,2.4,4,Yes,0.8,1,5.4,3,2.2,25,Winter,436.2
+C0559,Nagpur,Apartment,6,1774,5.6,2,8.7,6,15,14,Yes,2.7,2.9,Yes,2.2,0,0,3,2,21.8,Winter,741.3
+C0560,Kolhapur,Apartment,7,1597,13.3,2,6.1,8,14,11,Yes,1.4,4.1,Yes,1.1,1,0.8,3,1.7,35.2,Summer,663.4
+C0561,Nagpur,Apartment,3,844,14.6,1,4.2,4,8,6,Yes,4.3,3.2,Yes,0.2,0,0,4,1.3,33.6,Summer,401.8
+C0562,Aurangabad,Independent House,3,991,12.6,1,7.7,3,10,9,Yes,4.1,2.5,Yes,1.3,2,5,6,0.9,23.6,Monsoon,483.2
+C0563,Solapur,Apartment,2,931,17.2,1,7.3,3,8,6,Yes,3.5,2.9,Yes,1.6,1,3.2,2,0.9,37.6,Summer,544.6
+C0564,Nashik,Independent House,1,945,13.2,1,8,3,10,9,Yes,4,4.3,No,0,0,0,2,1.4,29.4,Summer,436.2
+C0565,Mumbai,Apartment,5,1196,14.4,1,6.9,5,12,11,Yes,2.1,1.9,Yes,0.9,0,0,2,3,23.1,Winter,471.7
+C0566,Solapur,Apartment,1,743,14.6,1,7.3,3,10,7,Yes,1,5.4,No,0,0,0,4,2.2,23.3,Winter,423.7
+C0567,Nagpur,Independent House,4,1201,5,2,7,4,10,9,Yes,2.6,2.6,Yes,0.7,2,4.9,1,2.4,35.9,Summer,664.8
+C0568,Kolhapur,Independent House,4,1202,12.6,0,0,4,11,8,Yes,0.6,0,Yes,0.8,0,0,3,0.7,33,Summer,247.2
+C0569,Pune,Apartment,6,1428,8,2,2.2,6,11,9,Yes,2.4,4.4,Yes,0.7,0,0,4,2.2,24,Monsoon,425.1
+C0570,Nagpur,Independent House,2,1268,8.5,1,4.5,4,14,9,Yes,4.6,0,Yes,1.6,1,3.8,4,2.3,34.6,Summer,414.2
+C0571,Kolhapur,Independent House,2,1026,9,1,7.7,2,6,5,Yes,4.1,1.8,Yes,1,2,6.5,5,3.6,21.2,Winter,490.8
+C0572,Nashik,Apartment,2,657,10.7,1,4.7,5,9,8,Yes,0.8,7.6,Yes,2.2,1,2.6,3,2,33.7,Summer,452.3
+C0573,Nagpur,Independent House,6,1854,13.1,3,5.2,3,16,13,Yes,5.9,5.3,No,0,1,2.8,2,1.6,28,Winter,710.9
+C0574,Aurangabad,Independent House,4,595,12.6,1,3.2,5,7,6,Yes,3.6,5.2,Yes,2.1,0,0,2,1.2,25.4,Winter,334.6
+C0575,Pune,Independent House,1,721,11.5,1,4.4,3,7,6,Yes,1.7,1.6,Yes,1.4,3,3.2,4,2.1,25.8,Monsoon,385.7
+C0576,Kolhapur,Independent House,6,1480,13.3,2,5.5,6,13,10,Yes,3.3,3.2,Yes,1.4,1,2.3,2,1.8,28.4,Winter,617.6
+C0577,Kolhapur,Independent House,6,1570,13.5,2,6.5,4,14,13,Yes,3,5.6,No,0,0,0,4,3.1,33.4,Summer,663.9
+C0578,Kolhapur,Independent House,1,400,12.6,1,4.6,3,3,3,Yes,2.4,4.6,Yes,0.3,0,0,0,2.9,26.9,Monsoon,322.2
+C0579,Nashik,Independent House,2,582,7.2,1,4.4,4,5,5,Yes,5.5,5.4,Yes,1.1,2,2.1,2,1,24.3,Monsoon,377.3
+C0580,Nagpur,Independent House,5,1202,9.7,2,7.2,4,9,8,Yes,2,6.5,Yes,2.4,0,0,2,2,30.1,Monsoon,652.3
+C0581,Nashik,Independent House,1,579,11.6,1,6.2,2,7,5,Yes,4.3,4.6,Yes,0.9,0,0,3,4.4,31.9,Summer,424.8
+C0582,Mumbai,Independent House,4,807,13.3,2,6.4,6,8,6,Yes,1.6,1.4,No,0,0,0,0,0.5,32.8,Summer,585.1
+C0583,Mumbai,Independent House,3,1002,8.2,1,8.6,4,10,7,Yes,3.9,4.5,Yes,1.1,1,5.5,3,1.8,30.5,Summer,508.1
+C0584,Nagpur,Apartment,3,1201,11.5,1,4.5,3,11,9,Yes,4.5,3.1,Yes,2.4,2,6,4,2.8,27.3,Monsoon,467.5
+C0585,Aurangabad,Independent House,7,1194,7.6,1,5.4,7,12,9,Yes,4.5,1.3,Yes,1.8,0,0,3,1.8,24,Winter,454.7
+C0586,Nashik,Independent House,7,1404,14.1,1,6.6,6,11,10,Yes,4.1,5,Yes,2,1,6.3,6,1.7,24.6,Monsoon,565.5
+C0587,Pune,Apartment,6,1839,12.1,2,3.8,5,16,11,Yes,3.6,5.5,Yes,0.2,2,6.4,2,1.5,28.4,Winter,563.1
+C0588,Kolhapur,Independent House,3,954,8.1,1,6,4,11,8,Yes,2.1,3.3,Yes,0.6,0,0,5,0.9,33.4,Summer,431.2
+C0589,Kolhapur,Apartment,5,1032,8.1,1,5.5,6,11,8,Yes,2.1,4,Yes,0.6,0,0,4,1.8,23.4,Winter,435.1
+C0590,Nagpur,Apartment,2,995,12.5,1,10,3,7,5,Yes,4.5,0,Yes,2,2,4.9,1,3,24.1,Monsoon,550.9
+C0591,Aurangabad,Independent House,4,861,14.9,0,0,4,7,6,Yes,1.7,5.4,Yes,1.7,0,0,6,0.7,33.6,Summer,276.3
+C0592,Mumbai,Apartment,7,1131,8.8,2,7.8,7,10,7,Yes,1.3,4.8,Yes,1.9,1,7.7,4,2.3,21.3,Monsoon,770
+C0593,Mumbai,Independent House,5,1480,13.5,2,7.2,5,13,9,No,6.6,3.9,Yes,0.2,0,0,5,3.1,31.5,Monsoon,672.5
+C0594,Kolhapur,Independent House,4,1143,10.1,2,3.2,6,10,7,Yes,3.5,1.4,No,0,1,4.2,3,2,36.1,Summer,475.2
+C0595,Nagpur,Apartment,4,1311,13.6,1,2.4,3,13,12,Yes,5.1,0.7,No,0,1,5.6,3,1.6,23.5,Winter,315.8
+C0596,Nashik,Apartment,2,774,13.2,1,6,3,8,7,Yes,5.6,6.9,Yes,0.6,1,4,2,2.7,28.1,Winter,426.3
+C0597,Mumbai,Apartment,6,1691,11.9,1,8,5,15,10,Yes,4.1,1.8,Yes,1.1,0,0,3,1.1,31.1,Summer,549.3
+C0598,Nashik,Independent House,3,734,6.9,1,6.1,5,8,7,Yes,3.3,3.7,Yes,0.6,1,2.9,3,2.4,26.5,Monsoon,419.1
+C0599,Aurangabad,Villa,2,1096,13.2,1,5.7,3,12,9,Yes,3.4,1.9,No,0,1,1.8,1,1.8,34.5,Summer,387.5
+C0600,Mumbai,Independent House,5,1428,12.8,3,4.9,4,8,6,Yes,6.9,0,No,0,0,0,6,2.1,19.4,Winter,675.9
+C0601,Mumbai,Apartment,6,1356,12.5,2,2.9,7,11,9,Yes,3,4.3,Yes,2.2,0,0,1,3.7,33.2,Summer,486.9
+C0602,Solapur,Independent House,5,1450,12,2,3.6,3,11,8,Yes,4.3,4.5,Yes,0.5,1,4.2,2,3.2,34.7,Summer,517.9
+C0603,Mumbai,Apartment,6,1082,9.3,1,2.3,6,11,10,Yes,5.2,0.7,Yes,0.9,1,5,5,3.5,24.3,Monsoon,368.5
+C0604,Pune,Independent House,7,2245,14.2,3,3.3,8,18,12,Yes,4.5,5.4,Yes,0.4,2,4.9,2,1.2,35.8,Summer,699.3
+C0605,Nagpur,Apartment,5,1189,13.7,1,4.4,6,11,10,Yes,6,2.6,Yes,1.7,0,0,5,1,36.5,Summer,476.7
+C0606,Nagpur,Independent House,2,908,8.8,2,7.1,3,10,7,Yes,3.3,1.7,Yes,0.2,0,0,2,2.5,36.1,Summer,617.1
+C0607,Nashik,Apartment,6,1550,14.8,1,4.6,5,13,11,Yes,5.2,1.5,No,0,0,0,2,2.3,33.4,Summer,432.4
+C0608,Aurangabad,Villa,6,1650,11.8,2,6,7,15,14,No,0.8,5,Yes,0.3,0,0,2,0,36.6,Summer,611.2
+C0609,Mumbai,Apartment,4,1445,11.8,1,5.8,6,15,10,Yes,6.4,0.2,Yes,1.2,1,1.7,2,2.3,27.4,Winter,427
+C0610,Pune,Independent House,4,1329,11.1,2,6.5,4,13,10,Yes,6,1.4,Yes,2,0,0,2,4,22.3,Winter,651.7
+C0611,Nashik,Villa,1,579,11.3,1,3.4,2,4,3,Yes,3.5,4.2,Yes,0.8,1,5.6,2,3.9,27.3,Monsoon,333.5
+C0612,Solapur,Apartment,5,1072,14.9,1,7.6,7,9,7,Yes,4.8,4,No,0,0,0,2,1.3,25,Monsoon,499.3
+C0613,Nashik,Villa,4,1024,14.1,1,2.7,5,10,7,Yes,5.6,1.8,Yes,0.6,2,3.8,2,2.7,28.4,Monsoon,390.4
+C0614,Nashik,Independent House,1,605,14,1,4.6,1,7,5,Yes,2.1,5.7,Yes,1.1,0,0,3,1.1,24.6,Monsoon,329.7
+C0615,Mumbai,Apartment,7,1156,12,1,5.5,7,10,8,Yes,3.7,1.6,Yes,0.2,0,0,2,1.9,27.8,Monsoon,436.2
+C0616,Solapur,Apartment,7,1144,13.7,1,7,7,9,7,Yes,1.6,3.1,Yes,1.7,0,0,1,1.2,27.2,Monsoon,507.5
+C0617,Nashik,Independent House,4,1178,9.4,2,8.3,5,11,9,Yes,6,2.9,Yes,0.9,2,2.9,1,0.8,27.1,Monsoon,748.1
+C0618,Pune,Apartment,5,1580,13,1,7,6,12,9,Yes,5.5,2.9,No,0,1,2.1,1,2.9,26.8,Monsoon,487.8
+C0619,Pune,Independent House,6,1328,11.1,2,8.3,6,13,10,Yes,3.5,3.2,Yes,1.2,1,3.3,6,2.3,29.5,Monsoon,791.8
+C0620,Nagpur,Apartment,3,1115,6.4,1,3.8,4,13,11,Yes,3.3,3.1,Yes,0.2,0,0,3,2.4,28.5,Monsoon,367.1
+C0621,Solapur,Independent House,5,999,7.5,1,7.9,5,10,8,Yes,3.7,3.1,No,0,0,0,1,2.6,19.9,Winter,449.3
+C0622,Solapur,Apartment,2,1054,9.8,1,7.5,7,9,7,Yes,2.4,3.2,Yes,1.3,0,0,4,2.2,28.1,Winter,481.1
+C0623,Nagpur,Independent House,7,1228,12.5,1,1,7,12,9,Yes,3.7,5.3,Yes,1.1,2,0.5,4,1,22.5,Winter,384.5
+C0624,Nashik,Villa,4,878,9.8,1,5.1,5,9,7,Yes,2.1,3.1,Yes,2.7,1,4.8,2,2.2,18.9,Winter,387.3
+C0625,Solapur,Villa,4,937,10,1,6.7,7,8,6,Yes,5.6,4.7,Yes,2.1,2,3.2,6,1.8,33.6,Summer,540.7
+C0626,Pune,Independent House,6,1366,13.4,1,4.5,5,12,9,Yes,6,3.8,No,0,0,0,4,1.8,23.2,Winter,455.4
+C0627,Pune,Apartment,2,894,10.1,2,3.3,3,7,5,Yes,5.7,4.1,Yes,0.5,1,1.2,1,1.1,25.9,Monsoon,386.9
+C0628,Mumbai,Independent House,6,1530,14.8,1,9.7,5,14,12,Yes,1.9,4.8,Yes,0.9,1,7.1,6,0.5,27.6,Monsoon,579.8
+C0629,Solapur,Apartment,2,813,14.4,1,5.7,4,8,7,Yes,3.6,1.6,Yes,1.7,1,7.2,3,1.4,26.3,Monsoon,429.7
+C0630,Nashik,Apartment,3,1155,11.6,2,5.8,4,9,7,Yes,5.1,4.6,Yes,1.3,0,0,2,2.5,35.9,Summer,628.3
+C0631,Nagpur,Apartment,7,1551,13.4,2,2.9,7,12,9,Yes,5.4,3.1,Yes,2.1,0,0,2,1.9,19.2,Winter,483.2
+C0632,Nagpur,Apartment,4,1048,13,1,4.3,5,8,6,Yes,0.7,1.9,Yes,1.2,0,0,2,3.8,26.2,Winter,352.7
+C0633,Nashik,Independent House,4,1031,10.9,2,3.7,6,10,8,Yes,5.3,4.8,No,0,1,3.3,4,1.9,28.5,Monsoon,484.8
+C0634,Aurangabad,Independent House,3,923,13.7,1,7.7,5,9,8,Yes,1.8,2.8,Yes,2.3,0,0,4,2.2,32.1,Summer,482.9
+C0635,Kolhapur,Apartment,1,559,14,1,6.5,2,6,5,Yes,3.7,4.1,Yes,0.4,1,2.7,3,2,27.3,Winter,370.6
+C0636,Mumbai,Apartment,7,1259,9.1,1,4.4,6,12,10,Yes,6.3,0,Yes,2.4,2,4.6,5,0.9,25.7,Monsoon,461.4
+C0637,Nagpur,Villa,6,1625,11.9,3,6.6,7,13,12,Yes,6,4.7,Yes,1.7,2,9.2,2,2,27.4,Monsoon,934
+C0638,Solapur,Apartment,3,723,11.9,0,0,6,5,4,Yes,6.4,7.9,Yes,3.5,1,5.7,2,0.9,26.9,Monsoon,375.1
+C0639,Mumbai,Apartment,6,1082,13.6,1,6,5,10,7,Yes,2.1,3.5,Yes,0.7,0,0,4,1.9,20.8,Winter,462.5
+C0640,Solapur,Apartment,5,1225,10.4,1,6,6,8,7,No,2.5,3.1,Yes,2.3,2,2.7,3,0.2,35.1,Summer,475.5
+C0641,Aurangabad,Independent House,4,1294,10,0,0,4,11,8,Yes,3,2.7,Yes,1.3,0,0,3,1.9,22.4,Winter,259.4
+C0642,Pune,Independent House,6,1863,11.9,1,6.1,6,20,16,Yes,3.7,4.4,Yes,1.1,3,2.3,3,2.1,24.3,Winter,529.8
+C0643,Mumbai,Apartment,2,1029,14.5,1,6.3,4,7,6,Yes,4.4,3,Yes,1.4,2,1.9,3,2.2,30.8,Monsoon,451.9
+C0644,Nagpur,Apartment,6,1978,8.5,2,8,6,16,14,Yes,6.3,4.6,Yes,1.3,1,5.5,3,0.6,29.9,Summer,786
+C0645,Mumbai,Independent House,5,1648,8.9,3,6.8,6,11,8,Yes,2.3,6.4,No,0,0,0,3,2.5,29.7,Summer,842.2
+C0646,Mumbai,Independent House,7,1905,10.2,2,4.8,8,16,13,No,2.9,4.9,Yes,1.1,2,4.7,3,2.7,34,Summer,650
+C0647,Mumbai,Apartment,4,979,10.6,1,5.3,5,12,10,Yes,6.6,3.2,No,0,0,0,2,1,36.3,Summer,429.2
+C0648,Kolhapur,Villa,3,735,7.1,0,0,3,8,7,Yes,1.9,1.6,Yes,0.9,3,3,2,3,32.2,Summer,265
+C0649,Mumbai,Apartment,5,1627,15.2,2,5.7,4,13,11,Yes,5.3,2.8,No,0,1,4.5,2,2.2,26.4,Monsoon,637.7
+C0650,Solapur,Apartment,4,1061,11.2,2,4.8,4,13,12,No,3.8,3.2,Yes,1,1,2,3,1.9,33,Summer,527.7
+C0651,Pune,Villa,6,983,10.8,0,0,5,6,4,Yes,4.7,1.3,Yes,1.5,1,4.8,3,2.6,27.5,Summer,331.2
+C0652,Aurangabad,Apartment,7,2054,15.6,3,6,7,18,14,Yes,2.5,5.3,No,0,1,6.6,5,3.6,32.3,Monsoon,883.2
+C0653,Nashik,Independent House,1,844,13.3,2,3.8,2,8,6,No,5.3,4.5,Yes,1.5,3,6.5,3,1.9,31.4,Summer,525.5
+C0654,Mumbai,Apartment,7,1545,10.2,2,8.1,8,13,9,Yes,2.8,1.7,Yes,0.3,1,4.1,2,1.5,27.3,Winter,718.1
+C0655,Nagpur,Apartment,1,547,11.9,2,3.4,3,7,6,Yes,1.4,0.5,No,0,0,0,5,4.1,28.6,Monsoon,410.3
+C0656,Mumbai,Villa,2,823,11.4,1,8.5,6,6,6,Yes,4.9,4.7,Yes,0.6,0,0,1,1.8,32.5,Summer,498.6
+C0657,Nagpur,Apartment,7,1029,15.1,1,4.9,5,10,7,Yes,0,0.7,Yes,1.1,3,4.1,2,2.4,32.5,Summer,467.6
+C0658,Solapur,Independent House,4,1281,11.1,1,3.3,5,12,8,Yes,3,3.6,Yes,0.7,0,0,5,1.8,24.9,Winter,360.1
+C0659,Nagpur,Apartment,1,645,7.9,1,5.9,2,5,4,Yes,4.5,2.8,Yes,1.2,1,2.7,3,0.4,28.9,Summer,347.5
+C0660,Nashik,Apartment,3,858,6.8,0,0,3,11,10,Yes,5.4,4.9,Yes,1.1,0,0,2,1.7,22.2,Winter,262.6
+C0661,Pune,Apartment,4,1444,15.2,2,5.6,5,12,9,Yes,6.2,4.9,No,0,2,3.6,3,3.1,26.3,Winter,583.5
+C0662,Nagpur,Independent House,3,1032,9.5,1,4.3,4,9,6,Yes,7.2,2.1,Yes,1.2,0,0,2,1.2,31.6,Summer,388.8
+C0663,Nagpur,Apartment,7,1415,13.2,2,7.4,8,11,7,Yes,6.6,5,Yes,0.9,3,5.6,2,3.3,25.4,Monsoon,783.9
+C0664,Pune,Independent House,3,978,11.7,2,5.8,4,9,7,Yes,4.3,3,Yes,0.2,0,0,3,2.8,28.8,Monsoon,540.6
+C0665,Nashik,Apartment,1,483,10.5,0,0,2,9,8,Yes,6,3.5,No,0,1,1.7,2,1,31.5,Summer,193.9
+C0666,Mumbai,Villa,4,1137,10.9,2,4.3,5,10,7,Yes,4.3,3.6,Yes,1.6,1,4.7,6,0.8,38.7,Summer,542.2
+C0667,Nagpur,Apartment,6,1812,15.5,3,6.9,6,16,12,Yes,5.2,7.3,No,0,1,5.5,2,0.8,26.7,Monsoon,923.8
+C0668,Pune,Independent House,5,910,7.9,1,8.1,4,10,7,Yes,2.9,3.3,Yes,1.1,1,3.7,4,1.6,19.2,Winter,474
+C0669,Solapur,Independent House,1,607,10.5,0,0,2,6,5,Yes,4.8,0.7,No,0,2,2.6,2,0.9,26.8,Summer,220.2
+C0670,Pune,Independent House,1,548,13.8,1,3.4,3,5,4,Yes,3.1,2.3,Yes,0.7,0,0,5,3.2,23.9,Monsoon,299.5
+C0671,Solapur,Independent House,6,1851,8.3,3,7.6,6,16,12,Yes,3.7,4.8,Yes,0.7,0,0,0,0.8,30,Summer,922.8
+C0672,Nashik,Independent House,4,1350,14.8,1,6.9,5,12,9,Yes,4.8,3,Yes,1,2,4.4,3,1.1,25.9,Monsoon,521.1
+C0673,Mumbai,Independent House,4,1097,13.7,1,8.1,4,9,8,Yes,7.8,3.5,Yes,1.8,3,6,2,3.5,20.6,Winter,581.1
+C0674,Pune,Apartment,7,1540,12.2,2,6.1,7,15,10,Yes,4.7,2.8,Yes,1,2,2.4,2,1.7,28.5,Monsoon,675.7
+C0675,Aurangabad,Apartment,3,1006,10.2,1,4.5,4,9,8,Yes,4,0,Yes,1.2,0,0,2,2.4,21.6,Winter,363.3
+C0676,Aurangabad,Villa,7,1037,8,2,6.5,7,11,8,Yes,2.5,2.2,Yes,1.4,1,5.8,2,2.5,31.3,Summer,647.6
+C0677,Kolhapur,Independent House,6,1427,13.3,2,6.2,6,12,9,Yes,5.6,3.4,Yes,1.2,0,0,2,0.5,24.9,Winter,620.9
+C0678,Nagpur,Independent House,7,1661,18,2,4.4,8,12,10,Yes,3.4,0.5,Yes,1.9,1,5.2,2,2.8,33.4,Summer,638.8
+C0679,Nashik,Apartment,6,1706,11.9,2,5.9,7,9,8,Yes,4.7,1.5,Yes,0.7,3,6.6,3,2.6,19.5,Winter,728
+C0680,Pune,Apartment,4,1163,6.9,1,5.1,5,8,7,Yes,5.3,2.9,No,0,0,0,2,2.7,25.5,Winter,390.7
+C0681,Aurangabad,Apartment,3,1020,12.6,1,7,3,7,5,Yes,6.3,2.9,No,0,1,2.9,3,1.3,23.5,Winter,452
+C0682,Nagpur,Independent House,7,1582,13.7,3,6.5,7,14,11,Yes,5.5,4.2,Yes,0.2,1,5,5,2.3,32,Summer,905.5
+C0683,Aurangabad,Apartment,1,769,9.2,1,3.4,4,6,5,Yes,1.8,3,Yes,1.4,0,0,3,1.8,22.7,Monsoon,300.5
+C0684,Pune,Apartment,2,678,9.9,1,3.2,3,4,3,Yes,0.9,4.1,Yes,2.1,2,4.8,0,2.1,30.4,Monsoon,355.8
+C0685,Solapur,Apartment,5,1231,9.6,2,5.3,5,11,9,Yes,5.3,2.3,Yes,1,0,0,3,1.2,23.4,Winter,566.3
+C0686,Pune,Apartment,1,530,10.2,0,0,2,4,3,Yes,4.2,3.9,Yes,0.4,0,0,3,1.8,27.9,Monsoon,253.4
+C0687,Kolhapur,Independent House,4,1572,11.1,1,7,5,14,11,No,4.7,6,Yes,1.5,0,0,4,3,26.3,Winter,495.1
+C0688,Pune,Apartment,5,1770,9.3,2,6.5,5,16,13,Yes,7.1,4,Yes,1.3,1,3.6,5,0.1,23,Monsoon,669.1
+C0689,Pune,Independent House,2,995,8.4,1,8.4,4,10,8,Yes,2.9,3.1,No,0,0,0,2,1.6,26,Monsoon,426.4
+C0690,Kolhapur,Apartment,2,728,11.9,1,4.6,3,3,3,Yes,6.3,1.9,Yes,1.5,2,4.2,1,2.6,38.5,Summer,418.9
+C0691,Nashik,Apartment,3,969,11,1,4.5,5,9,6,Yes,2.9,3.6,Yes,0.5,1,6.7,2,0.9,34.3,Summer,424.9
+C0692,Pune,Apartment,5,1402,10.4,1,3.6,5,12,9,Yes,6.8,3.1,Yes,0.5,3,6.8,0,2.4,28.8,Summer,486
+C0693,Kolhapur,Apartment,3,1187,11.7,2,7,5,9,8,Yes,5.4,4.5,Yes,1.8,2,2.4,3,2.5,36.8,Summer,687.3
+C0694,Nagpur,Apartment,1,400,7.7,1,5.5,2,3,2,Yes,1.3,0.4,Yes,1.4,0,0,1,1.8,28.8,Summer,342.2
+C0695,Solapur,Apartment,6,1367,12.2,1,1.8,5,12,9,Yes,3.2,3.2,Yes,1.2,0,0,5,2.3,20.2,Winter,394.2
+C0696,Solapur,Independent House,6,1378,10.5,2,5.9,5,14,12,Yes,7.4,4.2,No,0,2,7.2,3,3.6,26.1,Monsoon,680.6
+C0697,Pune,Apartment,6,1257,12.1,2,6,4,7,7,Yes,7.2,3.7,Yes,1.5,1,4.4,2,1.3,24.1,Winter,639.7
+C0698,Nashik,Independent House,5,1076,12.5,0,0,6,9,9,Yes,5.1,2.9,No,0,0,0,2,0.6,24.6,Monsoon,268.6
+C0699,Nashik,Independent House,6,1488,14.3,2,6.1,5,13,11,Yes,4.6,2.9,Yes,0.2,0,0,6,1.6,24.9,Winter,615.9
+C0700,Nagpur,Independent House,1,400,11.8,0,0,2,6,4,Yes,4.4,1.6,Yes,2.1,1,2.8,4,1,25.4,Monsoon,234.4
+C0701,Pune,Apartment,3,1064,14.2,2,8.8,5,9,8,Yes,4.8,4.1,No,0,2,4.5,4,2.4,33.5,Summer,763.8
+C0702,Solapur,Apartment,5,1016,10.7,1,6.3,6,12,10,Yes,3.7,4.2,Yes,2.5,1,4.2,3,1.5,28.7,Monsoon,508
+C0703,Nashik,Apartment,3,1511,10.8,1,2,3,10,8,Yes,6.2,1.1,Yes,2.3,1,3.2,3,2.6,28.4,Monsoon,357.3
+C0704,Pune,Apartment,5,1463,11.3,2,5.5,6,10,9,No,5,4.8,No,0,1,5.8,1,2.3,27.5,Monsoon,593.3
+C0705,Aurangabad,Villa,3,860,13.4,1,6.3,5,10,8,Yes,2.3,2.4,Yes,1,0,0,1,1.3,25.3,Winter,408.4
+C0706,Nashik,Apartment,2,564,13.1,1,3.3,3,3,2,No,5.2,2.9,Yes,1.4,0,0,1,1.1,26.4,Winter,251.8
+C0707,Kolhapur,Apartment,3,1129,11.8,1,6.6,5,11,10,Yes,4.3,6.7,No,0,0,0,0,0.6,27.8,Monsoon,437.1
+C0708,Aurangabad,Independent House,6,1189,8.4,1,8.9,5,10,8,Yes,3.4,6.2,Yes,0.2,2,1.7,3,3.1,18.6,Winter,543.9
+C0709,Nashik,Independent House,2,772,13,2,4.2,4,6,5,Yes,7.4,1,Yes,1,1,0.5,2,2.5,25.8,Monsoon,429.8
+C0710,Solapur,Independent House,3,861,9.3,2,6.4,4,7,5,Yes,4.2,1.3,No,0,0,0,2,1.6,34.8,Summer,539.8
+C0711,Mumbai,Apartment,5,1468,9.2,2,5.9,6,11,9,Yes,0.5,1.7,Yes,1.4,0,0,1,2.6,25.7,Monsoon,576.1
+C0712,Aurangabad,Apartment,5,1229,8.7,1,7.4,6,10,7,Yes,3.6,6.2,Yes,2.1,0,0,3,0.9,23.8,Winter,516.6
+C0713,Nagpur,Apartment,5,1412,11.3,2,5.3,4,12,9,Yes,5.8,2.5,No,0,1,5.6,2,1.1,26.1,Monsoon,586.4
+C0714,Nagpur,Apartment,4,979,14.5,1,3.4,5,8,7,Yes,2.3,1,Yes,0.8,0,0,1,1,22,Winter,342.1
+C0715,Solapur,Apartment,1,730,9.1,0,0,4,6,5,Yes,5.7,5.6,Yes,1.4,0,0,3,2.3,27.7,Summer,240.5
+C0716,Nashik,Apartment,5,1000,15.7,2,3.5,3,10,8,Yes,2.2,4.5,No,0,2,1.3,7,1.4,24,Winter,458.1
+C0717,Pune,Apartment,2,868,13.8,0,0,4,11,10,Yes,6.4,7.3,Yes,1.5,1,2.6,1,0.5,22.7,Winter,306
+C0718,Nashik,Apartment,5,874,7.8,1,6.6,7,8,7,Yes,3,4.5,Yes,0.3,0,0,2,2.1,23.1,Winter,439.9
+C0719,Solapur,Apartment,4,954,10.5,1,4.3,3,10,8,No,3.4,3.4,Yes,1.4,0,0,2,2.6,31.3,Monsoon,375.6
+C0720,Nagpur,Independent House,6,1207,8.9,2,7.7,6,9,7,Yes,3.2,3.9,Yes,1.3,1,2.1,4,1.9,30.9,Monsoon,738.7
+C0721,Nashik,Independent House,2,783,13.2,1,5.5,4,6,5,Yes,5.1,2.7,No,0,2,3.1,3,3.1,25.8,Monsoon,400.3
+C0722,Nagpur,Independent House,4,1023,9,0,0,4,10,8,Yes,7.3,5.7,Yes,1.1,0,0,3,2.8,26.4,Monsoon,309.6
+C0723,Aurangabad,Apartment,6,1101,7.4,1,4.1,8,10,7,Yes,4,5.8,Yes,2.6,1,5,2,3.1,21.5,Winter,467.6
+C0724,Pune,Apartment,7,1557,10.7,1,1.7,8,15,11,Yes,4,0.8,Yes,1.3,0,0,4,2.8,31.9,Summer,391.3
+C0725,Aurangabad,Apartment,7,1924,14.4,2,6.7,6,18,16,No,3,5.1,No,0,2,6.1,6,2.2,31.6,Monsoon,726.4
+C0726,Nagpur,Independent House,2,892,11,1,2.2,3,10,7,Yes,1.1,1.7,Yes,0.5,1,1.3,3,0.8,33.2,Summer,309.3
+C0727,Nagpur,Independent House,3,1027,12.5,1,3.9,5,11,8,Yes,3.1,7.6,No,0,1,5.6,5,1.7,26.3,Monsoon,408.6
+C0728,Mumbai,Apartment,1,663,12.6,1,6.4,3,3,3,Yes,1.7,6.1,Yes,0.6,0,0,3,1.5,19.9,Winter,369.2
+C0729,Mumbai,Villa,1,625,7.7,1,4.5,5,7,6,Yes,0.6,1.6,No,0,2,5.5,3,1.1,28.3,Summer,335.1
+C0730,Aurangabad,Apartment,4,1038,9.3,1,5.8,4,11,9,No,3.9,3.9,Yes,2.4,0,0,1,1.4,21.8,Winter,372.6
+C0731,Kolhapur,Apartment,6,1133,11.5,1,3.1,8,8,6,Yes,3,5.2,Yes,0.2,0,0,4,0.5,31,Summer,389.6
+C0732,Aurangabad,Independent House,1,630,10.1,1,4.8,2,6,4,Yes,6.5,2.4,No,0,1,5.2,2,2.9,20.7,Monsoon,330.6
+C0733,Mumbai,Independent House,6,1366,15.8,2,5.8,7,10,8,Yes,2.5,1.2,Yes,1,1,3.2,7,0.9,29.5,Monsoon,634.2
+C0734,Nagpur,Independent House,6,1648,8.4,2,3.6,7,16,11,Yes,5.2,3.7,Yes,0.2,0,0,4,2.8,33.1,Summer,574
+C0735,Solapur,Independent House,4,933,9.2,0,0,2,7,6,Yes,5.2,3.2,No,0,2,2.5,2,3.3,34.9,Summer,301.5
+C0736,Aurangabad,Apartment,4,828,12.2,1,4.2,6,7,5,Yes,6.4,1.9,Yes,1.4,1,3.3,0,1.2,24.1,Winter,409.5
+C0737,Nagpur,Independent House,4,1269,9.9,1,8.3,6,11,10,Yes,3.7,5.6,Yes,1.2,0,0,4,1.4,21.8,Monsoon,516.6
+C0738,Solapur,Apartment,1,519,5,0,0,4,9,7,Yes,6.4,1.3,Yes,1.5,0,0,4,2.5,36.1,Summer,218.1
+C0739,Solapur,Independent House,7,2087,16.3,2,2.4,8,19,14,Yes,5,3.3,No,0,0,0,3,1.6,25.2,Winter,495.1
+C0740,Mumbai,Apartment,4,1180,8.8,2,3.2,6,13,12,Yes,6.1,3.8,Yes,2.1,2,7.4,3,1.2,38.7,Summer,545.3
+C0741,Aurangabad,Independent House,1,776,12.9,1,5.9,2,5,4,No,8.3,4,Yes,1.5,0,0,3,2.4,23.4,Winter,356.5
+C0742,Nashik,Apartment,4,1209,8.4,2,7.6,6,9,7,Yes,3.8,5.4,Yes,2,0,0,4,1.3,26.7,Monsoon,681.3
+C0743,Pune,Independent House,5,832,9.3,1,9,5,10,9,Yes,4.3,3.1,Yes,1.3,2,5.6,1,4.1,34.3,Summer,582.2
+C0744,Mumbai,Apartment,6,1503,7.4,3,5.8,6,10,7,Yes,3.3,0,No,0,2,4.7,3,2.6,39.8,Summer,785.3
+C0745,Mumbai,Independent House,4,1194,9.6,2,3.1,6,10,8,No,6.8,2.8,Yes,1.5,1,3.6,1,2.7,27.5,Monsoon,451.4
+C0746,Nashik,Apartment,2,625,9.9,1,6.1,4,9,7,Yes,8.7,4.7,Yes,1.4,0,0,2,1.9,36.8,Summer,446.4
+C0747,Pune,Apartment,6,1416,11.2,1,3.8,8,11,8,Yes,5.3,3.3,Yes,1.3,0,0,1,3.9,33.3,Summer,452.1
+C0748,Nagpur,Apartment,6,1831,10.6,3,6.3,8,13,9,Yes,1.1,3.3,Yes,2.5,0,0,4,1.3,22.3,Winter,818.7
+C0749,Kolhapur,Apartment,4,991,7.9,1,3.6,4,9,8,Yes,2.4,4.4,No,0,2,1.6,2,2.8,30.4,Monsoon,390.5
+C0750,Aurangabad,Independent House,7,1446,10.2,2,1.3,7,10,8,Yes,6.1,4.6,Yes,0.9,0,0,2,0.7,32,Summer,403.8
+C0751,Kolhapur,Apartment,3,892,15.1,1,8.1,4,10,7,No,1.9,0.5,Yes,2.8,0,0,2,4.3,24.6,Monsoon,436.4
+C0752,Nagpur,Villa,7,2002,14.8,2,5,6,16,12,Yes,2.9,3.5,Yes,0.9,1,4.2,4,2.8,25.8,Monsoon,633
+C0753,Mumbai,Apartment,4,1375,12.6,2,5.6,5,10,9,Yes,2.9,3.2,No,0,1,2.8,5,1.1,25.4,Monsoon,580.5
+C0754,Pune,Apartment,6,1445,13.2,2,7.5,7,13,12,Yes,3.9,3.6,Yes,0.6,3,6.2,4,2.5,26.5,Monsoon,800
+C0755,Mumbai,Independent House,2,561,16.7,0,0,4,5,4,Yes,4.5,0.2,Yes,1.7,1,1.2,6,3.1,25.1,Winter,263.3
+C0756,Solapur,Independent House,6,1058,12.9,1,6.9,6,10,9,Yes,0.6,5.7,No,0,1,3.7,4,1.1,28.1,Monsoon,506.7
+C0757,Mumbai,Apartment,7,1247,13.1,1,5.7,7,12,10,Yes,1.3,3.5,No,0,1,6,3,1.5,32.6,Summer,478
+C0758,Mumbai,Independent House,2,900,7.6,1,6.4,3,8,6,Yes,1.3,4.2,Yes,1,2,0.5,7,1,38.1,Summer,440.9
+C0759,Nagpur,Independent House,1,779,8.7,1,4.9,4,6,4,Yes,1.5,6.5,Yes,2,1,4.4,2,2.5,31.1,Summer,404.7
+C0760,Nagpur,Apartment,5,1534,11.4,1,5.6,7,14,10,Yes,4,4.2,No,0,3,2.7,5,2.2,32.1,Summer,511.9
+C0761,Nagpur,Villa,6,1780,9.5,2,5.8,7,14,13,Yes,4.4,0.9,Yes,1.6,0,0,4,2,35,Summer,657.3
+C0762,Kolhapur,Villa,4,913,9,1,3.9,4,7,6,Yes,5.8,3.4,Yes,0.3,2,3.3,6,1.2,27.6,Monsoon,391.2
+C0763,Solapur,Independent House,1,400,9.3,0,0,2,5,4,Yes,5,4.6,Yes,1.5,0,0,5,1.8,35.9,Summer,258.4
+C0764,Nagpur,Apartment,5,1817,7.9,2,6.2,6,13,9,Yes,3,3.6,Yes,1.3,0,0,4,1.3,20.6,Winter,667.7
+C0765,Pune,Independent House,4,1060,9.5,1,6.5,4,10,8,Yes,4.4,6.4,No,0,2,9,3,2.5,28.6,Monsoon,539.1
+C0766,Kolhapur,Apartment,3,1054,12.3,1,6.4,4,10,9,Yes,5.9,2,Yes,1.7,0,0,2,0.9,15.5,Winter,421.6
+C0767,Nashik,Apartment,4,1185,16,1,2.8,5,12,11,No,3.6,5.6,No,0,1,5.5,2,1.2,28,Monsoon,355.8
+C0768,Pune,Apartment,2,1036,13.5,1,8,4,9,6,Yes,3.4,4.9,No,0,1,4.7,4,2.8,24.1,Winter,505.6
+C0769,Aurangabad,Apartment,2,613,13.1,0,0,3,8,7,Yes,2.3,3.7,Yes,1.8,2,4.8,2,1.6,22.8,Winter,273.1
+C0770,Aurangabad,Independent House,3,925,7.4,2,5.3,5,9,6,Yes,2.6,4.1,No,0,0,0,1,3.8,25.6,Winter,533.8
+C0771,Pune,Independent House,1,586,11.8,0,0,2,6,5,Yes,5.2,1.8,Yes,0.9,1,2.6,2,2.2,29.7,Monsoon,248.8
+C0772,Nagpur,Independent House,5,1336,11.3,2,5.1,5,15,13,Yes,4,3,Yes,0.9,1,3.3,2,0.2,28.6,Monsoon,546.2
+C0773,Nashik,Apartment,4,716,12.2,1,7,4,7,5,Yes,7.5,4.5,No,0,1,3.6,5,0.7,25.8,Monsoon,473.6
+C0774,Nashik,Apartment,2,796,10.6,1,3.9,3,7,6,Yes,2.8,3.2,Yes,0.3,0,0,6,1.4,22,Monsoon,289
+C0775,Kolhapur,Apartment,1,509,15.7,1,8.2,1,6,4,Yes,5.4,3.6,Yes,0.8,0,0,6,2.7,34,Summer,468.6
+C0776,Nashik,Villa,3,626,11.6,1,6.9,5,6,5,Yes,4.7,5.2,Yes,1.9,2,5.3,1,2.6,31.2,Summer,515.5
+C0777,Aurangabad,Apartment,7,1757,11.9,2,7,8,16,12,Yes,3.8,0.3,No,0,0,0,1,1.5,36,Summer,663.4
+C0778,Solapur,Independent House,6,1400,6.6,2,5.3,7,14,12,Yes,3.2,4.1,Yes,0.8,0,0,4,3.2,31.1,Summer,639.1
+C0779,Nagpur,Independent House,7,1494,11.2,1,2.7,7,13,12,Yes,5.1,6.5,Yes,0.2,0,0,6,2.3,30.3,Summer,460.1
+C0780,Nashik,Apartment,7,1573,14.4,2,7.3,6,14,11,Yes,5,2.9,Yes,1.7,1,0.5,2,1.7,28.1,Monsoon,708.9
+C0781,Kolhapur,Independent House,2,933,12.9,2,2.7,2,10,8,Yes,4.4,1.4,No,0,2,8.7,6,3.2,35.5,Summer,511.5
+C0782,Aurangabad,Apartment,3,842,6.1,1,7.3,2,10,8,Yes,4.8,2.8,Yes,1.9,1,5.1,6,1.2,29.8,Monsoon,429.9
+C0783,Solapur,Independent House,4,1342,10.4,1,4,5,11,8,Yes,4.1,0.9,Yes,1.1,0,0,8,2.6,24.4,Winter,387.3
+C0784,Mumbai,Villa,7,1450,15.8,3,2.3,8,13,11,Yes,1,3.9,Yes,1.4,1,4.9,1,2.7,25.9,Monsoon,513.8
+C0785,Mumbai,Apartment,7,2158,11.1,2,5.5,4,19,17,Yes,4.2,3.4,Yes,1.4,0,0,4,2.6,23.4,Winter,608
+C0786,Solapur,Apartment,5,1570,12.3,2,7.9,6,14,13,No,3.5,4,Yes,0.2,2,0.5,5,1.8,31.6,Summer,695.7
+C0787,Aurangabad,Independent House,2,652,15.5,1,3.6,3,4,4,Yes,7.5,3.3,Yes,2.8,1,4.1,2,2.9,26.2,Winter,392.2
+C0788,Kolhapur,Villa,2,979,11.1,1,8.7,3,11,9,Yes,5.1,3.8,Yes,1.9,1,5.8,1,3.8,34.7,Summer,532
+C0789,Solapur,Apartment,4,932,13.5,1,6.8,4,9,8,No,4.4,4.3,Yes,1.3,2,5.9,1,1.8,21.7,Winter,468.6
+C0790,Nagpur,Independent House,6,1269,12.5,2,5.8,5,12,11,Yes,4.8,1.5,Yes,1,3,4.5,3,2.1,35,Summer,678.9
+C0791,Nagpur,Independent House,1,622,13.1,1,4.6,3,4,3,Yes,2.2,4.1,Yes,2.1,2,5.9,2,2.9,20.5,Winter,378.8
+C0792,Mumbai,Independent House,5,1340,12.4,1,4.8,6,12,8,Yes,2.9,6,Yes,1.3,1,4.9,5,1.7,31.5,Summer,474.6
+C0793,Nashik,Apartment,2,710,10.1,1,6.4,4,8,6,Yes,3.4,1.9,Yes,1.8,0,0,2,1.7,29.4,Monsoon,356.7
+C0794,Kolhapur,Independent House,5,1135,10.4,1,7.2,4,9,8,Yes,4.7,4,Yes,0.8,0,0,4,0.8,25.6,Summer,485.9
+C0795,Mumbai,Villa,2,660,9.4,0,0,4,6,5,Yes,3.2,5.7,Yes,0.6,2,3.3,4,0.3,24.4,Monsoon,257.5
+C0796,Nashik,Apartment,5,926,7.4,1,3.9,6,10,9,Yes,3.1,1.5,Yes,1.1,2,3.5,3,0.9,25.7,Monsoon,390.7
+C0797,Nashik,Apartment,3,834,14.6,1,5.1,5,7,5,Yes,2.1,4.9,Yes,1.2,0,0,3,2.9,18.8,Winter,420.3
+C0798,Nagpur,Villa,7,2119,11.5,2,8.3,6,17,16,Yes,4,3.1,Yes,1.5,2,5.6,4,1,23.9,Monsoon,837.1
+C0799,Aurangabad,Apartment,2,694,14.5,1,3.1,4,5,4,Yes,4.3,5.2,Yes,2.2,0,0,3,2.5,29.6,Monsoon,359.2
+C0800,Pune,Independent House,5,1302,15.4,2,7.8,5,14,12,No,4.8,2.1,No,0,0,0,2,3.5,35.9,Summer,686
+C0801,Aurangabad,Apartment,1,816,11.6,1,5.6,4,9,6,Yes,2.7,3.5,Yes,2.1,0,0,3,2.2,29.7,Monsoon,429
+C0802,Pune,Apartment,3,832,8.2,1,2.2,4,8,6,Yes,4.7,0.9,No,0,1,2.1,4,1.1,36.2,Summer,304.4
+C0803,Solapur,Independent House,3,895,11,1,4.6,4,8,7,Yes,2.1,4.2,Yes,1,1,5,0,1.9,24.6,Winter,408.9
+C0804,Nagpur,Apartment,1,720,9.8,0,0,1,5,5,Yes,3.6,4.3,Yes,1.9,0,0,1,2.4,27.4,Summer,221.8
+C0805,Nashik,Apartment,5,1881,6.5,2,9.1,6,16,12,Yes,4.5,4.4,No,0,0,0,0,2.4,25.1,Monsoon,720.8
+C0806,Kolhapur,Apartment,4,1179,10.2,2,2.8,4,12,8,Yes,3.5,4.3,Yes,1.7,4,5.2,3,2.1,24.9,Monsoon,516.8
+C0807,Pune,Independent House,1,423,11.3,1,1,3,4,3,Yes,1.2,3.3,Yes,0.8,1,1.6,1,2.6,29.2,Monsoon,232.1
+C0808,Aurangabad,Apartment,5,1341,9.9,2,2.9,6,12,8,Yes,1.4,1,No,0,1,7.3,5,3,28.7,Monsoon,445.3
+C0809,Nashik,Apartment,1,516,9.6,0,0,2,5,4,Yes,4.4,5.2,Yes,1.4,1,9.3,3,1.5,38.2,Summer,291.9
+C0810,Pune,Villa,1,553,8.3,0,0,3,8,7,Yes,5,3.4,Yes,0.6,0,0,1,3.4,35,Summer,225.5
+C0811,Pune,Apartment,2,897,12,0,0,4,7,7,Yes,4.6,4.2,Yes,1.5,0,0,4,2.3,21.4,Winter,303.1
+C0812,Pune,Independent House,5,1545,16.2,1,7.9,6,15,10,Yes,5.1,3.2,No,0,0,0,4,0,29.6,Summer,538.5
+C0813,Kolhapur,Apartment,4,1117,14.7,2,5.9,6,12,10,Yes,3.5,6.8,No,0,1,5,4,1.8,28.7,Winter,612.5
+C0814,Nagpur,Independent House,7,2125,13.1,2,4.2,8,17,12,Yes,5.3,2.5,Yes,0.3,1,1.4,4,1.8,30.2,Monsoon,582.2
+C0815,Kolhapur,Apartment,2,706,13.2,2,5.6,3,6,4,Yes,4.6,2.5,Yes,0.8,0,0,5,3.1,32.2,Monsoon,571.2
+C0816,Mumbai,Villa,1,603,11.2,1,6.7,4,8,6,No,2.8,0.8,No,0,0,0,3,1.4,35.5,Summer,380.5
+C0817,Nashik,Apartment,7,1831,7,3,6.4,8,13,11,Yes,4.9,3.7,Yes,1.5,1,7.2,4,2.1,27.5,Monsoon,865.1
+C0818,Nagpur,Apartment,6,1088,10.6,1,9,8,11,7,No,4.5,6.7,Yes,1.6,1,7.5,5,0.6,28.4,Monsoon,556.1
+C0819,Nagpur,Apartment,7,1003,9.1,1,5,7,7,5,Yes,7,3.7,Yes,2.4,1,4.2,3,1.2,30.1,Monsoon,484.8
+C0820,Nagpur,Apartment,1,804,11.9,1,2.9,3,10,7,Yes,6.5,3.9,Yes,1.4,0,0,3,2.8,21.2,Winter,334.5
+C0821,Aurangabad,Apartment,1,548,14.6,1,2.5,3,5,4,No,3.8,5.2,Yes,1.4,0,0,3,0.8,36.5,Summer,309.7
+C0822,Nagpur,Apartment,5,1512,16.4,1,2.1,5,13,9,Yes,3.2,3.8,No,0,0,0,5,3,19.1,Winter,395.5
+C0823,Kolhapur,Independent House,5,1165,11.7,2,5.9,6,9,8,Yes,6.8,5.5,No,0,0,0,5,3.1,35.4,Summer,627.3
+C0824,Nagpur,Apartment,2,620,7.3,0,0,4,4,3,Yes,5,5.8,Yes,0.9,1,5.7,2,3.2,29.7,Summer,267.4
+C0825,Solapur,Apartment,4,1431,11.7,1,5.6,5,14,13,Yes,3.7,2.5,Yes,0.7,0,0,3,3.5,32.2,Summer,419.8
+C0826,Nashik,Independent House,2,701,11.7,2,4.4,2,7,5,Yes,0.4,1.1,Yes,1.7,0,0,4,2.8,35.2,Summer,474
+C0827,Nagpur,Independent House,3,855,13.2,1,3.3,6,13,10,Yes,2.6,4.7,Yes,0.6,2,1.7,1,2.4,22.6,Monsoon,338.7
+C0828,Nashik,Apartment,1,711,11.5,0,0,3,6,5,Yes,2.5,4,Yes,1.6,0,0,7,2.6,36.1,Summer,269.7
+C0829,Solapur,Apartment,7,2036,11.7,2,1,6,16,10,Yes,3.7,1.7,Yes,1,0,0,2,2.1,23.2,Monsoon,413.5
+C0830,Solapur,Apartment,6,1757,9.9,2,3.9,6,14,12,Yes,5.1,2.3,Yes,1,0,0,1,1.6,33.4,Summer,543.6
+C0831,Nashik,Independent House,1,655,10.7,1,7.1,2,6,5,Yes,5.4,2.3,Yes,1.8,1,3.1,1,2.8,30,Summer,431.8
+C0832,Pune,Independent House,1,503,12.8,1,3.7,2,8,6,Yes,6.7,3.8,Yes,0.3,2,4.1,1,2.4,30.7,Summer,358.9
+C0833,Mumbai,Apartment,2,641,6.5,1,6.3,4,8,7,Yes,5.7,5.2,Yes,0.9,1,0.9,3,2.9,20.4,Winter,431.9
+C0834,Aurangabad,Independent House,6,1301,10.7,2,3.9,6,9,7,Yes,1.7,5.3,Yes,3.3,0,0,4,1.8,31.2,Summer,541.8
+C0835,Pune,Independent House,6,1666,13.2,2,4.6,6,16,15,Yes,5.9,4.8,Yes,2.5,1,6.2,5,1.9,22,Winter,635
+C0836,Pune,Independent House,6,1772,15.6,3,6.6,8,16,12,Yes,7.1,3,No,0,2,3.5,5,2.2,36.4,Summer,916.8
+C0837,Kolhapur,Independent House,2,737,10.5,0,0,2,8,7,No,7,7.3,No,0,0,0,5,1.9,30,Monsoon,232.8
+C0838,Aurangabad,Apartment,1,696,14.5,0,0,3,6,4,Yes,1.8,3.6,Yes,1.2,1,5.6,2,4.8,31,Summer,314.5
+C0839,Aurangabad,Apartment,2,623,15.7,0,0,4,5,5,Yes,3.7,2.8,Yes,0.2,0,0,5,3.9,30.5,Summer,253.4
+C0840,Pune,Apartment,5,1280,10.5,2,8,6,12,9,Yes,5.7,1.2,Yes,2.6,0,0,5,2,21.3,Winter,691
+C0841,Nagpur,Apartment,5,1292,10.1,1,5.9,7,11,9,Yes,1.9,2.9,Yes,1.2,0,0,2,1.9,27.7,Monsoon,450.2
+C0842,Kolhapur,Apartment,2,1167,11,1,3.4,5,12,8,Yes,0.9,4.2,Yes,1.1,1,5.5,1,2.4,33.8,Summer,372.3
+C0843,Kolhapur,Villa,6,1325,11.3,2,9,8,11,10,Yes,4.6,0.8,No,0,2,7.3,5,1.6,34.8,Summer,796.2
+C0844,Solapur,Apartment,1,923,14.2,1,3.5,2,6,4,Yes,2.8,1.9,Yes,1.5,1,4.5,7,1.6,33,Summer,375.4
+C0845,Aurangabad,Apartment,2,1163,9.6,1,5,2,8,6,Yes,1.1,2.7,Yes,0.6,1,4.9,3,2,21,Winter,376.7
+C0846,Pune,Apartment,2,657,15.3,2,7.4,4,5,5,Yes,6.2,2.2,Yes,2.1,0,0,2,1.6,19.7,Winter,651
+C0847,Solapur,Villa,2,701,9.5,1,1.7,2,6,6,Yes,4.3,2,Yes,1.3,0,0,7,2.2,25.8,Monsoon,277.2
+C0848,Nashik,Apartment,3,1408,8.3,1,8.4,2,13,10,Yes,3.1,5.4,Yes,2.1,1,5.4,2,2.4,24.4,Monsoon,481.9
+C0849,Mumbai,Apartment,5,1662,12.8,2,3.2,6,14,13,Yes,2.3,0.7,Yes,0.8,0,0,2,0,19.2,Winter,436.3
+C0850,Kolhapur,Apartment,7,1912,14.6,3,4.6,7,17,11,Yes,4.3,3.8,Yes,0.2,0,0,1,0.1,28.6,Monsoon,668.1
+C0851,Nashik,Apartment,6,1075,11.9,2,6.1,8,9,8,Yes,4.9,4.4,Yes,2.2,0,0,5,1.2,23,Winter,669.8
+C0852,Nashik,Villa,4,1050,12.6,1,5.4,6,9,8,Yes,4.6,2.7,No,0,2,0.8,1,2.3,28.3,Monsoon,436.2
+C0853,Nagpur,Villa,7,1506,16.4,2,7.1,8,16,13,Yes,1.3,3.1,Yes,2,0,0,0,1.2,31.9,Summer,746.4
+C0854,Mumbai,Apartment,6,2206,14.6,2,2.3,7,20,18,Yes,4.9,3.4,Yes,2.1,0,0,2,4.3,22.6,Winter,518.3
+C0855,Nashik,Villa,4,1413,11.6,1,7,4,13,12,Yes,5.3,4.6,Yes,1.2,2,4.7,3,2.9,26.7,Monsoon,503.9
+C0856,Nashik,Independent House,3,894,10.4,1,7.1,5,10,7,Yes,3.4,6.1,Yes,0.9,2,1.5,2,4,25.1,Monsoon,459.3
+C0857,Mumbai,Independent House,2,483,14.2,0,0,5,3,3,Yes,5.9,1.3,Yes,1.1,1,2.1,4,2.9,37.2,Summer,304
+C0858,Mumbai,Apartment,3,1060,13.6,1,2.3,4,8,5,Yes,2.5,1.9,Yes,1.6,2,4.6,2,0.4,25.3,Monsoon,321.9
+C0859,Nashik,Apartment,3,1176,12.5,1,2.6,6,10,9,Yes,6.3,2,Yes,1.4,0,0,5,0.8,24.5,Monsoon,358.9
+C0860,Mumbai,Apartment,7,2240,10.7,2,4.8,7,18,15,Yes,4.2,3.5,Yes,0.2,2,1.8,1,1.5,30.5,Summer,633.1
+C0861,Nashik,Independent House,1,734,11.3,1,2.8,3,5,3,Yes,3.1,2.8,Yes,1.1,1,4.9,3,0.8,31.1,Monsoon,361.3
+C0862,Nashik,Apartment,7,2102,11.1,2,1.9,7,18,15,Yes,3.4,4.6,Yes,2.2,0,0,1,3.1,26.2,Monsoon,492.1
+C0863,Nagpur,Apartment,5,1517,10.7,3,4.7,8,15,12,Yes,5.8,2.4,Yes,1.2,0,0,2,1.8,28.2,Monsoon,691.4
+C0864,Pune,Apartment,4,1013,10,1,6,6,9,7,Yes,4.4,2,Yes,2.8,1,1.7,2,2.2,20.4,Winter,449.6
+C0865,Nashik,Independent House,2,794,12.2,0,0,2,9,7,Yes,5.2,2.2,Yes,0.5,0,0,5,3.4,25,Winter,263.9
+C0866,Solapur,Apartment,7,2131,9.9,3,6.6,8,18,13,Yes,5.9,3.7,Yes,1.4,1,3,2,3.9,22,Monsoon,898.9
+C0867,Kolhapur,Independent House,4,1143,11.9,1,9,4,10,9,Yes,3.1,5.1,Yes,0.5,0,0,5,1.7,25.8,Monsoon,476.3
+C0868,Aurangabad,Villa,6,1610,6.3,1,5.4,6,15,11,No,4.2,3.4,Yes,0.6,0,0,2,0.6,29.9,Monsoon,421.2
+C0869,Pune,Apartment,4,1026,10,2,6.6,5,7,5,Yes,3.6,2.6,No,0,2,6.1,2,0.8,28.6,Winter,588.4
+C0870,Pune,Independent House,6,1396,14.2,2,5.2,7,9,8,Yes,5.8,1.7,Yes,2.7,0,0,2,3.1,26.1,Monsoon,570.2
+C0871,Pune,Apartment,7,1973,9.2,3,10,7,15,10,Yes,3.3,6,No,0,2,4.6,1,2.3,20.2,Winter,1129.4
+C0872,Nagpur,Independent House,5,1081,13,2,4.1,4,11,9,Yes,4.1,0.5,Yes,0.7,0,0,3,1.1,32.8,Summer,505.2
+C0873,Nashik,Apartment,7,2232,9.5,2,4.4,7,19,16,Yes,8.1,3.2,Yes,1.2,1,3.6,5,2.7,31.3,Summer,620.2
+C0874,Nagpur,Independent House,6,1907,13.4,2,7.1,7,17,15,Yes,6.3,4.8,Yes,1,0,0,8,0.9,38.6,Summer,779
+C0875,Nashik,Independent House,4,1056,10.8,1,5.9,6,12,9,Yes,2.1,3.2,Yes,1.8,0,0,2,0.2,26.8,Monsoon,457.2
+C0876,Nagpur,Villa,4,765,10.7,2,4.7,3,6,5,Yes,5.6,2.5,Yes,0.2,0,0,3,0,34.8,Summer,512.4
+C0877,Nagpur,Independent House,6,1230,11.6,1,7.4,6,13,10,Yes,5.2,4.4,Yes,0.5,1,2.1,0,0.6,37.1,Summer,531.1
+C0878,Kolhapur,Apartment,3,778,8.1,2,5.4,3,7,6,Yes,2,1.6,No,0,2,7.4,3,3.2,27.3,Monsoon,560.4
+C0879,Solapur,Independent House,5,966,13.9,1,5.4,6,8,6,Yes,3.8,0.5,Yes,0.9,0,0,1,1.8,28.7,Summer,420.5
+C0880,Nagpur,Independent House,1,604,14.8,0,0,1,6,6,Yes,2.3,4.1,Yes,0.7,1,2.4,1,2,32.9,Summer,246.6
+C0881,Kolhapur,Independent House,2,543,10.6,0,0,2,6,5,Yes,0,1.8,Yes,0.6,3,1.9,2,2.2,28.7,Summer,209.6
+C0882,Mumbai,Apartment,4,1236,12.8,2,2.3,4,11,10,Yes,3.7,3.7,No,0,1,4.2,3,1,20,Winter,397.9
+C0883,Solapur,Villa,2,1059,13.4,2,7.7,2,11,9,Yes,3.1,3.3,Yes,1.7,0,0,5,1.5,22.9,Monsoon,650.6
+C0884,Nagpur,Independent House,1,644,11.3,0,0,3,7,5,No,2,3.9,Yes,1.9,0,0,2,1.6,24.4,Winter,201.4
+C0885,Aurangabad,Independent House,7,1897,8.7,2,5.2,5,16,15,Yes,4,3.1,Yes,0.4,1,5.6,3,1.1,36.7,Summer,648.5
+C0886,Pune,Apartment,2,970,15.5,0,0,4,8,5,Yes,0.2,4.4,Yes,0.3,1,4.9,1,1.5,34.2,Summer,264.7
+C0887,Mumbai,Independent House,1,747,10.5,1,5.3,2,8,5,Yes,4.1,2.3,Yes,2,1,1.3,1,1.9,38.4,Summer,391.7
+C0888,Mumbai,Apartment,6,1582,10,2,5.1,6,12,9,Yes,4,4.8,Yes,1.3,0,0,5,1.8,21.3,Winter,588.2
+C0889,Kolhapur,Independent House,3,909,15.6,0,0,4,7,7,Yes,5.2,1.4,Yes,0.8,2,4.1,0,2.4,27.9,Monsoon,329.1
+C0890,Mumbai,Apartment,4,1330,13,1,4.3,5,11,9,Yes,1.1,5.5,No,0,1,6.3,4,1.5,31,Monsoon,437.9
+C0891,Solapur,Independent House,1,794,12.1,0,0,3,8,7,Yes,7.9,7,No,0,1,6.8,5,3.5,20.6,Winter,314.7
+C0892,Nagpur,Villa,2,926,9.1,1,7.3,5,12,10,Yes,7.2,3.7,Yes,0.8,0,0,5,1,36.2,Summer,489.5
+C0893,Nagpur,Apartment,4,1262,13.5,1,9.2,6,11,9,Yes,2.6,6.2,Yes,1.3,2,5.5,4,1.5,30.5,Summer,616.3
+C0894,Aurangabad,Villa,3,1098,18,2,4.1,6,7,6,Yes,6.6,6.6,Yes,1.4,1,7.3,4,2.4,25.9,Monsoon,530.5
+C0895,Pune,Apartment,6,1679,13.7,2,8.2,7,13,10,Yes,5.5,3,Yes,1.1,2,4.4,2,2.6,21.2,Winter,786.6
+C0896,Kolhapur,Independent House,7,1912,12.7,1,6.6,7,17,15,Yes,3.2,3.6,Yes,1.1,2,5.4,4,0.8,24,Monsoon,575.9
+C0897,Pune,Independent House,4,1177,13.3,1,2.8,4,9,7,Yes,2.9,2.1,No,0,1,4.4,1,1.9,20.5,Winter,347.1
+C0898,Mumbai,Independent House,7,1540,10.7,1,1,6,11,8,Yes,3,2.2,Yes,1.1,0,0,4,2.8,31.3,Monsoon,343.4
+C0899,Aurangabad,Independent House,1,734,10.7,1,3.9,3,8,6,Yes,9,3.9,Yes,0.9,4,4.8,2,0.4,25.2,Winter,393.9
+C0900,Pune,Independent House,3,1156,10.6,3,6.1,3,11,9,Yes,6.4,0.7,Yes,0.7,0,0,4,1.9,28.5,Monsoon,710.6
+C0901,Solapur,Apartment,2,860,10.1,1,6.4,4,6,5,Yes,3.6,4.9,No,0,1,3.8,7,0.5,29.1,Summer,424.2
+C0902,Nagpur,Apartment,3,839,10.6,2,5.4,4,7,5,Yes,3.8,3.8,No,0,2,3.6,5,1.2,22.2,Monsoon,547.1
+C0903,Mumbai,Independent House,3,1107,10.6,2,5.4,3,12,9,Yes,5.5,4.7,Yes,2.2,2,5.4,2,2.1,26.3,Winter,632
+C0904,Aurangabad,Independent House,5,1240,10.9,1,5.2,4,12,9,Yes,5.4,3.2,Yes,0.6,0,0,2,1.8,33,Monsoon,439.8
+C0905,Pune,Independent House,3,1301,10.8,2,7.6,7,10,8,Yes,2.3,4.6,Yes,0.3,1,3.5,2,0.9,32.8,Summer,688
+C0906,Kolhapur,Independent House,3,933,12.1,1,2.6,3,6,4,No,4.5,3.9,Yes,0.8,1,1.6,4,3.2,30.9,Summer,301.7
+C0907,Solapur,Apartment,4,1274,11.7,1,6,5,12,10,Yes,3,4.4,Yes,1.4,1,4.6,2,1.7,32.9,Summer,479.6
+C0908,Solapur,Independent House,2,1024,11.9,1,3.9,5,9,7,Yes,4.3,5,No,0,1,2.4,1,2.5,19.9,Winter,400.1
+C0909,Pune,Apartment,4,1092,15.3,1,3.7,5,10,8,Yes,3.9,1.3,Yes,0.8,1,2.8,1,3.5,33.2,Summer,407.5
+C0910,Nagpur,Apartment,4,1129,11.7,2,7.9,4,11,8,Yes,5.8,2.3,Yes,1.1,3,8.8,1,1.3,25.3,Monsoon,767
+C0911,Pune,Apartment,1,454,17,0,0,2,4,4,Yes,3.5,7.4,Yes,1.3,0,0,3,2.6,26.7,Monsoon,266.7
+C0912,Mumbai,Apartment,4,1238,12.4,2,5.2,5,10,9,Yes,4.2,3.9,Yes,1.5,1,0.9,3,2.4,21.2,Winter,585.3
+C0913,Pune,Apartment,5,1490,10.4,2,9.4,3,12,9,Yes,0.6,0.6,Yes,1,1,5.2,2,0.6,27.3,Winter,769
+C0914,Solapur,Apartment,5,1549,14.9,2,7.2,6,12,10,Yes,4.6,0.6,Yes,1,2,5.4,6,3.2,21.8,Winter,755.8
+C0915,Aurangabad,Independent House,7,1567,11.3,3,4.6,7,14,13,Yes,2.6,3.4,Yes,0.2,1,5.8,3,2.1,25.6,Monsoon,715
+C0916,Pune,Apartment,1,710,5.5,1,4.8,4,7,5,Yes,1.3,2.6,Yes,1.9,0,0,2,1.5,25,Winter,329.8
+C0917,Nagpur,Apartment,7,1446,11.5,2,3,6,10,9,Yes,6,2.1,No,0,0,0,4,0.4,33.6,Summer,488.2
+C0918,Aurangabad,Apartment,7,1219,10.9,1,8.1,7,12,8,Yes,3.9,6.5,Yes,2.3,2,4.3,2,0.7,25.6,Monsoon,575.9
+C0919,Kolhapur,Apartment,6,1165,15.5,1,7.5,7,10,9,Yes,0.3,2.9,Yes,1.6,0,0,2,1.9,21,Winter,490.6
+C0920,Nashik,Apartment,2,875,9.3,1,6.9,4,9,7,Yes,2.6,4.9,Yes,1.1,1,7.2,4,0.7,35,Summer,467.2
+C0921,Pune,Apartment,2,644,10.7,1,7.1,2,5,4,Yes,4,3.9,Yes,0.2,0,0,2,2.6,28.4,Winter,382.1
+C0922,Nagpur,Independent House,4,908,14.7,1,4,4,7,5,Yes,4.1,3,No,0,0,0,5,1.6,27.6,Monsoon,382.6
+C0923,Aurangabad,Independent House,4,1125,12.5,0,0,6,11,10,Yes,3.1,1.6,Yes,1.9,1,5.3,3,0.4,28.1,Monsoon,297.6
+C0924,Nagpur,Independent House,6,1348,11.1,2,6.6,6,10,9,Yes,0,4.8,Yes,1.6,0,0,4,1.3,31.8,Summer,664.5
+C0925,Kolhapur,Apartment,4,822,9.6,1,7.3,3,7,6,Yes,3,0,No,0,1,0.5,6,0.9,29.4,Monsoon,428.7
+C0926,Solapur,Apartment,2,507,12.4,0,0,4,4,3,Yes,5.9,5,No,0,1,2.9,3,0.8,31.9,Summer,237
+C0927,Nagpur,Independent House,7,2204,11.4,3,5.1,5,18,14,Yes,6.5,3.8,Yes,0.9,0,0,1,0,33.8,Summer,770.7
+C0928,Aurangabad,Apartment,3,491,9.6,0,0,4,5,4,Yes,2.9,4.6,Yes,0.2,4,4,3,2.1,26.3,Winter,261
+C0929,Nagpur,Apartment,5,1230,9.7,1,5,6,11,7,Yes,7.4,3.5,Yes,1.6,2,3.3,2,1,22.2,Winter,471.9
+C0930,Nagpur,Apartment,3,985,9.5,2,6.8,5,9,7,Yes,1.1,1.4,Yes,0.5,2,8.7,4,3.9,37,Summer,704.3
+C0931,Nagpur,Apartment,3,1125,9,1,4.9,2,11,10,Yes,2.5,4.2,Yes,1.1,1,4,0,3,26.7,Monsoon,400.4
+C0932,Mumbai,Apartment,2,707,13.8,0,0,4,7,6,Yes,5.6,4.9,Yes,1.5,1,4.5,4,3.6,25.6,Monsoon,310
+C0933,Mumbai,Apartment,3,1051,13.5,2,7.2,5,9,7,Yes,5.3,2.7,Yes,0.8,0,0,3,2.7,28.3,Monsoon,638.4
+C0934,Solapur,Independent House,6,1577,13.8,2,4.2,6,13,11,Yes,4,4.6,Yes,0.6,0,0,2,1.4,24.5,Monsoon,531.3
+C0935,Pune,Apartment,1,531,11.5,1,8.3,3,7,7,Yes,2,4,No,0,1,4.1,2,2.3,29.8,Monsoon,429.5
+C0936,Nagpur,Independent House,4,1226,10.9,1,6.8,2,12,10,Yes,2,4.3,No,0,1,0.5,3,1.7,25.8,Monsoon,452.9
+C0937,Kolhapur,Independent House,1,400,10.9,0,0,1,3,3,Yes,2.7,2,Yes,0.5,0,0,3,2.3,19.4,Winter,219.2
+C0938,Pune,Independent House,7,1441,14.1,1,4.5,8,14,13,Yes,2.1,5.7,Yes,0.5,1,3.4,4,2.9,27.3,Monsoon,492.3
+C0939,Kolhapur,Independent House,5,827,6.9,1,1.5,5,9,8,Yes,4.2,4,Yes,1,1,5.6,4,2.6,33.5,Summer,344.6
+C0940,Pune,Villa,4,1131,10.2,1,5.1,4,10,7,Yes,3.8,4.9,No,0,0,0,1,2,24,Monsoon,386.8
+C0941,Solapur,Apartment,3,1300,9.3,2,4.5,4,11,8,Yes,1.9,2.8,No,0,0,0,5,2.1,28.7,Monsoon,508.6
+C0942,Nagpur,Apartment,5,1380,14.9,2,7.2,5,9,8,Yes,3.4,5.2,No,0,2,5.9,2,2.2,29.3,Monsoon,732.9
+C0943,Nagpur,Apartment,4,1511,10.3,1,3.7,4,12,10,Yes,0,2.8,No,0,0,0,1,3.1,26.7,Monsoon,355.8
+C0944,Nashik,Independent House,6,1252,7.4,1,6.3,7,12,8,Yes,4.6,2,Yes,1.7,1,0.9,3,1.5,22,Monsoon,463.6
+C0945,Kolhapur,Independent House,6,1822,12.1,2,6.6,5,14,11,Yes,5.3,6.5,No,0,1,4.2,4,1.7,29.9,Summer,673
+C0946,Pune,Apartment,6,1667,10.6,1,6,7,14,12,Yes,2.4,0,Yes,1.5,0,0,0,1.5,26.2,Monsoon,454.9
+C0947,Pune,Villa,6,932,10.1,0,0,6,7,7,Yes,2.6,8,Yes,1.8,2,3.4,4,2.1,30.4,Monsoon,360.8
+C0948,Mumbai,Apartment,3,1252,9.8,1,9.6,3,11,8,Yes,4.5,4.7,Yes,1.4,2,7.8,2,2.6,25.8,Winter,575.2
+C0949,Nashik,Villa,1,434,9.8,0,0,2,5,4,Yes,4.2,3,Yes,0.5,0,0,5,2.3,23.2,Monsoon,216.1
+C0950,Aurangabad,Apartment,4,1421,13.3,1,6.3,5,13,12,Yes,5.4,4.1,No,0,1,1.2,4,1.9,33.2,Monsoon,517.4
+C0951,Aurangabad,Apartment,3,869,12.1,0,0,4,6,5,No,2.6,4.7,Yes,0.5,0,0,3,3.1,28,Winter,237
+C0952,Mumbai,Apartment,6,1729,11,2,3.5,5,15,10,Yes,2.8,2.9,No,0,3,2.1,8,1.2,30.9,Summer,542.3
+C0953,Mumbai,Apartment,7,1756,8.8,3,7.6,6,17,16,Yes,3.6,7,Yes,1.1,4,2.7,1,0.5,35.7,Summer,987
+C0954,Mumbai,Apartment,1,855,11.1,1,7.3,2,9,7,Yes,2.1,6,Yes,1.9,1,0.5,1,2.3,25.2,Monsoon,425.4
+C0955,Kolhapur,Apartment,7,1520,12.2,2,3.4,8,13,10,Yes,3.6,8,Yes,0.6,2,4.7,3,2,38.2,Summer,623.4
+C0956,Kolhapur,Independent House,5,1132,12.2,1,2.9,6,7,6,Yes,2.1,1.4,Yes,0.6,2,5.1,2,1.8,22.7,Monsoon,392.4
+C0957,Solapur,Apartment,7,1948,11.9,2,4.2,8,16,10,Yes,4.8,3.9,Yes,0.7,0,0,5,0.7,34.5,Summer,607
+C0958,Solapur,Apartment,5,1199,9.2,1,5.2,5,13,12,Yes,2.3,1.1,Yes,0.8,0,0,1,2.2,26.1,Winter,422.1
+C0959,Mumbai,Independent House,5,849,5.5,1,4.7,5,10,8,Yes,4.5,1.6,No,0,0,0,1,3.8,32.6,Summer,386.8
+C0960,Nashik,Independent House,6,1422,16,2,5.8,7,13,10,Yes,6.6,2.9,Yes,1.4,1,6.4,3,0.7,31.2,Monsoon,679.4
+C0961,Pune,Apartment,5,1446,8.2,1,7.3,6,12,8,No,4.8,3,Yes,0.7,0,0,2,1.8,25.1,Monsoon,458.5
+C0962,Kolhapur,Apartment,2,1149,6.6,1,6.4,4,10,8,Yes,4.3,4.1,No,0,2,4.6,4,2.1,26,Monsoon,431.3
+C0963,Nashik,Apartment,4,1003,11.8,2,6.6,4,10,9,Yes,1.5,3.3,Yes,1.3,0,0,2,1.6,36.6,Summer,614.5
+C0964,Nagpur,Apartment,4,1135,7.2,2,1,4,12,11,Yes,6.5,4.9,Yes,1.6,1,2.6,2,2.2,21.5,Winter,337.8
+C0965,Kolhapur,Independent House,6,1836,9.5,1,2.3,6,16,15,Yes,6,4,Yes,1.1,2,4.3,3,1.6,30.7,Summer,440.5
+C0966,Kolhapur,Apartment,2,665,12.9,1,3.9,5,8,6,Yes,3.7,6.3,Yes,1.8,2,2.6,5,2.2,31.1,Summer,394.9
+C0967,Solapur,Apartment,7,1863,15.9,2,4.2,6,16,14,Yes,3.3,4.9,Yes,1.5,2,3.4,3,1.7,33,Summer,600.8
+C0968,Pune,Independent House,3,862,12.5,1,7.2,4,8,6,Yes,2.5,1.5,Yes,1.4,1,3.4,5,1.5,33.4,Summer,454.9
+C0969,Pune,Apartment,7,1839,10.4,3,3.7,8,15,13,Yes,7.2,3.3,Yes,0.8,2,1.2,1,1.9,26.9,Winter,604
+C0970,Aurangabad,Independent House,3,909,11.4,1,6.8,5,9,8,Yes,5.4,3.4,Yes,1.4,2,5,4,2.5,28,Monsoon,505.5
+C0971,Aurangabad,Apartment,5,1482,7,2,3.9,6,14,11,Yes,2.6,4.2,Yes,1.4,1,5.2,2,0.4,26.8,Monsoon,518.2
+C0972,Aurangabad,Villa,1,650,10.4,1,3.1,3,8,6,Yes,6,5.3,Yes,0.8,0,0,3,2.7,26.6,Winter,337.4
+C0973,Aurangabad,Apartment,3,922,10.4,2,3.2,3,7,5,No,6.4,4,No,0,0,0,0,1.3,33.7,Summer,374.7
+C0974,Nagpur,Independent House,1,689,11.9,1,10,2,5,4,Yes,4,4.5,Yes,3,1,2.2,1,2.6,21.9,Monsoon,514.8
+C0975,Nagpur,Independent House,4,1414,16.4,2,3.9,6,14,13,Yes,3.4,1.6,Yes,0.7,0,0,3,1.3,20.9,Winter,479.9
+C0976,Kolhapur,Apartment,1,400,6.7,0,0,3,5,4,Yes,2.2,2.7,No,0,0,0,2,2.7,19.5,Winter,193
+C0977,Mumbai,Independent House,4,1165,10.5,1,2.4,3,11,7,No,5.3,0.2,No,0,0,0,4,2,30.6,Summer,265
+C0978,Solapur,Villa,2,868,6.9,1,8.3,4,8,5,Yes,3.2,4.3,No,0,2,3.8,2,1.1,22.5,Monsoon,452
+C0979,Solapur,Independent House,2,770,10.2,0,0,5,10,9,Yes,3.2,4.9,No,0,1,3.1,2,1.6,34.4,Summer,265
+C0980,Aurangabad,Independent House,6,1304,9.3,1,6,6,11,8,Yes,4,1.3,Yes,1.8,1,4.7,3,3.2,26.2,Monsoon,500.9
+C0981,Kolhapur,Independent House,6,1023,7.8,2,6.3,7,11,8,Yes,2.5,3.8,Yes,1.1,1,2.2,4,2.1,25.8,Monsoon,641
+C0982,Nashik,Apartment,5,1779,13.8,3,6.5,7,16,12,Yes,6.8,3.3,Yes,2.5,2,1.5,8,1.5,26.2,Winter,900.8
+C0983,Mumbai,Apartment,3,931,12.1,2,7.1,3,6,5,Yes,5.7,6.4,Yes,1,0,0,0,3.1,29.5,Summer,597.9
+C0984,Kolhapur,Independent House,5,1465,13.5,2,4.3,8,12,10,Yes,4.1,2,Yes,1.5,2,2.3,0,2.9,32,Summer,593.1
+C0985,Mumbai,Apartment,4,1430,10.2,3,4.2,6,12,10,Yes,2.5,5.1,Yes,0.6,2,1.6,2,1.2,37.1,Summer,630.9
+C0986,Mumbai,Independent House,5,1576,11.3,2,5.6,6,15,11,Yes,2.6,5.4,No,0,2,5.8,4,1.8,29,Summer,681
+C0987,Mumbai,Villa,1,726,15.5,0,0,3,9,7,Yes,2.5,3.2,Yes,1.3,0,0,1,0.2,31.2,Summer,286.1
+C0988,Kolhapur,Apartment,4,982,11.5,1,5.4,5,10,7,Yes,1.8,4,Yes,0.2,0,0,2,2.9,24.7,Winter,421.2
+C0989,Aurangabad,Apartment,6,1345,13.5,2,7,5,11,7,Yes,4.6,5.3,Yes,0.6,3,3.2,0,2,35.8,Summer,714.9
+C0990,Solapur,Independent House,2,1079,10,1,6.7,5,8,6,Yes,2.8,1.6,Yes,1.6,2,4.3,2,2.7,30.8,Summer,443.4
+C0991,Solapur,Apartment,6,1245,13.3,1,5.1,7,13,10,Yes,2.7,2.8,No,0,0,0,4,0.1,28.6,Monsoon,419.4
+C0992,Aurangabad,Independent House,3,623,10.1,0,0,6,4,3,Yes,2.5,3.8,No,0,1,3.6,4,1.7,22.5,Winter,261.7
+C0993,Mumbai,Apartment,4,1336,6.8,1,4.5,5,12,8,Yes,5.8,7,No,0,2,3.7,2,2.2,22.7,Winter,411.9
+C0994,Nashik,Independent House,4,1322,11.5,2,9,4,15,10,Yes,2.6,2.8,Yes,0.2,2,5,6,0,29.1,Winter,730.6
+C0995,Pune,Apartment,1,400,10.3,0,0,2,4,4,Yes,6.3,3,No,0,1,2.5,1,2.7,33.3,Summer,246.2
+C0996,Kolhapur,Independent House,3,1018,7.4,1,4.2,5,7,6,Yes,3.5,6.1,Yes,2.1,0,0,2,1.7,22.1,Winter,370.2
+C0997,Pune,Apartment,2,805,12,2,6,3,5,4,Yes,1.8,4.6,No,0,2,5.9,4,0.2,24.9,Monsoon,582.6
+C0998,Aurangabad,Independent House,7,2380,9.3,2,6.9,7,23,21,Yes,4.8,7.2,Yes,2.1,0,0,6,1.5,23.6,Monsoon,772.9
+C0999,Nashik,Apartment,4,1226,18,1,4.2,5,11,9,Yes,5.6,5.4,Yes,1.6,0,0,3,2.5,20.6,Winter,442.8
+C1000,Kolhapur,Independent House,4,1342,7.8,2,8,4,11,10,No,2.5,3.3,No,0,3,0.5,0,1.1,29.5,Winter,650.3
